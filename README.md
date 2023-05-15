@@ -13,7 +13,8 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 *
 *
 *
-* **[Kitaplar] (#kitaplar)**
+*
+* **[Kitaplar](#kitaplar)**
 
 
  #  Genel Bilgi
