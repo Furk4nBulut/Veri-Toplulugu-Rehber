@@ -9,6 +9,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ### İçindekiler
 
 * **[Genel Bilgi](#genel-bilgi)** 
+*  **[Yol Haritası](#yol-haritası)**
 *
 *
 *
@@ -28,6 +29,11 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
   Derin öğrenme, geleneksel makine öğrenme yöntemlerine göre daha yüksek düzeyde otomatiklik ve veriye dayalı özellik öğrenimi sağlar. Ancak derin öğrenme modelleri, büyük miktarda veri ve hesaplama gücü gerektirebilir. Ayrıca, bu modellerin eğitim süreci karmaşık ve zaman alıcı olabilir.
 
+# Yol Haritası
+* [Python] Makine öğrenmesi (Machine Learning, Derin öğrenme (Deep Learning), Takviyeli Öğrenme (Reinforcement Learning) gibi alanlar üzerinde çalışmalar yapabilmemiz için bir programlama diline ihtiyaç duyuyoruz, farklı programlama dilleri yer alsada, sağladığı kütüphaneler ve pratik olması yönünden Python öne çıkıyor.
+* [Veri Bilimi]
+* [Lineer Cebir]
+* [Olasılık-İstatistik]
 # Kitaplar
 
 # Yazılar
