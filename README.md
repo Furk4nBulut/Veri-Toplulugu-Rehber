@@ -31,7 +31,8 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Yol Haritası
 ### Python 
-Makine öğrenmesi (Machine Learning, Derin öğrenme (Deep Learning), Takviyeli Öğrenme (Reinforcement Learning) gibi alanlar üzerinde çalışmalar yapabilmemiz için bir programlama diline ihtiyaç duyuyoruz, farklı programlama dilleri yer alsada, sağladığı kütüphaneler ve pratik olması yönünden Python öne çıkıyor.
+Python temelleri ve Numpy, Pandas gibi kütüphaneler bilinmeli.
+
 ### Veri Bilimi
 ### Lineer Cebir
 ### Olasılık-İstatistik
