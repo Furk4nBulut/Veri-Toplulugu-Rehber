@@ -6,7 +6,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/verimcbu/)   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/verimcbu/)    [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/verimcbu)
 
-### İçindekiler
+# İçindekiler
 
 * **[Genel Bilgi](#genel-bilgi)** 
 *  **[Yol Haritası](#yol-haritası)**
@@ -18,7 +18,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Kitaplar](#kitaplar)**
 
 
- #  Genel Bilgi
+ ##  Genel Bilgi
   Derin öğrenme, yapay sinir ağları ve büyük veri setlerini kullanarak karmaşık problemleri çözmek için kullanılan bir makine öğrenme yöntemidir. Derin öğrenme, sinir ağlarının çok katmanlı yapısını kullanır ve veriye dayalı özelliklerin otomatik olarak öğrenilmesine odaklanır.
 
   Derin öğrenme, birçok farklı uygulama alanında etkili olmuştur, özellikle görüntü ve ses tanıma, doğal dil işleme, otomatik sürüş, oyun oynama ve tıp gibi alanlarda büyük başarı elde etmiştir.
@@ -29,12 +29,14 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
   Derin öğrenme, geleneksel makine öğrenme yöntemlerine göre daha yüksek düzeyde otomatiklik ve veriye dayalı özellik öğrenimi sağlar. Ancak derin öğrenme modelleri, büyük miktarda veri ve hesaplama gücü gerektirebilir. Ayrıca, bu modellerin eğitim süreci karmaşık ve zaman alıcı olabilir.
 
-# Yol Haritası
-* [Python] Makine öğrenmesi (Machine Learning, Derin öğrenme (Deep Learning), Takviyeli Öğrenme (Reinforcement Learning) gibi alanlar üzerinde çalışmalar yapabilmemiz için bir programlama diline ihtiyaç duyuyoruz, farklı programlama dilleri yer alsada, sağladığı kütüphaneler ve pratik olması yönünden Python öne çıkıyor.
-* [Veri Bilimi]
-* [Lineer Cebir]
-* [Olasılık-İstatistik]
-# Kitaplar
+## Yol Haritası
+### Python 
+Makine öğrenmesi (Machine Learning, Derin öğrenme (Deep Learning), Takviyeli Öğrenme (Reinforcement Learning) gibi alanlar üzerinde çalışmalar yapabilmemiz için bir programlama diline ihtiyaç duyuyoruz, farklı programlama dilleri yer alsada, sağladığı kütüphaneler ve pratik olması yönünden Python öne çıkıyor.
+### Veri Bilimi
+### Lineer Cebir
+### Olasılık-İstatistik
 
-# Yazılar
+## Kitaplar
+
+## Yazılar
 * 
