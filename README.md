@@ -44,8 +44,18 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 **[Caffe:](#Caffe)** Hızlı ve etkili bir derin öğrenme kütüphanesidir. Özellikle görüntü sınıflandırma ve tanıma gibi görsel işleme problemlerinde yaygın olarak kullanılır.
 
-### Veri Bilimi
 ### Lineer Cebir
+**[Vektörler ve Matrisler:]()** Lineer cebirde, vektörler ve matrisler temel yapı taşlarıdır. Vektörler, tek bir boyutlu verileri temsil ederken, matrisler iki boyutlu veri tablolarını temsil eder. Derin öğrenme uygulamalarında, genellikle ağırlıklar, özellikler ve gradyanlar gibi bilgileri temsil etmek için vektörler ve matrisler kullanılır.
+
+**[Doğrusal Bağımlılık:]() Bir vektörün diğer vektörler tarafından doğrusal bir kombinasyonu olarak ifade edilebilmesine doğrusal bağımlılık denir. Derin öğrenme uygulamalarında, özelliklerin doğrusal bağımlılığını analiz etmek, aşırı uyum (overfitting) veya özellik seçimi gibi sorunları ele almak için önemlidir.
+
+**[Matris Çarpımı:]() Matrislerin çarpılması, bir matrisi diğerine dönüştüren temel bir işlemdir. Derin öğrenme modellerinde, ağırlıkların ve özelliklerin matris çarpımı yoluyla hesaplanması yaygındır. Matris çarpımı, katmanlar arasındaki bağlantıları ve veri işleme süreçlerini temsil eder.
+
+**[Transpoz:]() Bir matrisin transpozu, matrisin satırlarını sütunlara ve sütunları satırlara dönüştüren işlemdir. Transpoz, matris çarpımında ve model parametrelerini güncellemede önemli bir rol oynar.
+
+**[Lineer Denklem Sistemleri:]() Derin öğrenme modelleri genellikle lineer denklem sistemlerini çözmek için kullanılır. Bu denklemler, verileri temsil eden matrisler ve hedef değerleri temsil eden vektörler arasında bir ilişkiyi ifade eder. Modellerin eğitimi, bu denklem sistemlerini çözmeyi ve model parametrelerini ayarlamayı içerir.
+
+**[Eigenvektörler ve Eigendeğerler:]() Bir matrisin eigenvektörleri, matrisin çarpımı sonucunda yalnızca bir ölçek faktörüyle değişmeyen vektörlerdir. Eigenvektörler ve eigendeğerler, derin öğrenme modellerinde boyut indirgeme, veri dönüşümü ve matrislerin özelliklerini anlamak için kullanılır.
 ### Olasılık-İstatistik
 
 ## Kitaplar
