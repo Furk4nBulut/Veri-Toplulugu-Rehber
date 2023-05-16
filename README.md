@@ -32,17 +32,17 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Yol Haritası
 ### Programlama  
-**[TensorFlow:]** Derin öğrenme için en popüler açık kaynaklı kütüphanelerden biridir. Çok sayıda önceden eğitilmiş model ve derin öğrenme araçları sunar.
+**[TensorFlow:](#TensorFlow)** Derin öğrenme için en popüler açık kaynaklı kütüphanelerden biridir. Çok sayıda önceden eğitilmiş model ve derin öğrenme araçları sunar.
 
-**[Keras:]** TensorFlow'un üzerine inşa edilen yüksek seviyeli bir derin öğrenme kütüphanesidir. Kullanımı kolay ve hızlı prototipler oluşturmanıza olanak tanır.
+**[Keras:](#Keras)** TensorFlow'un üzerine inşa edilen yüksek seviyeli bir derin öğrenme kütüphanesidir. Kullanımı kolay ve hızlı prototipler oluşturmanıza olanak tanır.
 
-**[PyTorch:]** Yine açık kaynaklı bir derin öğrenme kütüphanesidir. Dinamik grafikler kullanarak esnek bir şekilde model oluşturmanıza olanak sağlar.
+**[PyTorch:](#PyTorch)** Yine açık kaynaklı bir derin öğrenme kütüphanesidir. Dinamik grafikler kullanarak esnek bir şekilde model oluşturmanıza olanak sağlar.
 
-**[scikit-learn:]** Genel amaçlı bir makine öğrenimi kütüphanesidir. Derin öğrenme için önceden işleme, model seçimi ve değerlendirme gibi bir dizi yardımcı işlev sunar.
+**[scikit-learn:](#scikit)** Genel amaçlı bir makine öğrenimi kütüphanesidir. Derin öğrenme için önceden işleme, model seçimi ve değerlendirme gibi bir dizi yardımcı işlev sunar.
 
-**[Theano:]** Yüksek performanslı matematiksel işlemler yapabilen bir derin öğrenme kütüphanesidir. Biraz daha düşük seviyeli bir API'ye sahiptir ve TensorFlow ve Keras ile karşılaştırıldığında daha az popüler hale gelmiştir.
+**[Theano:](#Theano)** Yüksek performanslı matematiksel işlemler yapabilen bir derin öğrenme kütüphanesidir. Biraz daha düşük seviyeli bir API'ye sahiptir ve TensorFlow ve Keras ile karşılaştırıldığında daha az popüler hale gelmiştir.
 
-**[Caffe:]** Hızlı ve etkili bir derin öğrenme kütüphanesidir. Özellikle görüntü sınıflandırma ve tanıma gibi görsel işleme problemlerinde yaygın olarak kullanılır.
+**[Caffe:](#Caffe)** Hızlı ve etkili bir derin öğrenme kütüphanesidir. Özellikle görüntü sınıflandırma ve tanıma gibi görsel işleme problemlerinde yaygın olarak kullanılır.
 
 ### Veri Bilimi
 ### Lineer Cebir
