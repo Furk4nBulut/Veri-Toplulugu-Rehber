@@ -31,7 +31,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
   Derin öğrenme, geleneksel makine öğrenme yöntemlerine göre daha yüksek düzeyde otomatiklik ve veriye dayalı özellik öğrenimi sağlar. Ancak derin öğrenme modelleri, büyük miktarda veri ve hesaplama gücü gerektirebilir. Ayrıca, bu modellerin eğitim süreci karmaşık ve zaman alıcı olabilir.
 
 ## Yol Haritası
-### Programlama  
+### Programlama 
 **[TensorFlow:](#TensorFlow)** Derin öğrenme için en popüler açık kaynaklı kütüphanelerden biridir. Çok sayıda önceden eğitilmiş model ve derin öğrenme araçları sunar.
 
 **[Keras:](#Keras)** TensorFlow'un üzerine inşa edilen yüksek seviyeli bir derin öğrenme kütüphanesidir. Kullanımı kolay ve hızlı prototipler oluşturmanıza olanak tanır.
@@ -57,6 +57,17 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 **[Eigenvektörler ve Eigendeğerler:]()** Bir matrisin eigenvektörleri, matrisin çarpımı sonucunda yalnızca bir ölçek faktörüyle değişmeyen vektörlerdir. Eigenvektörler ve eigendeğerler, derin öğrenme modellerinde boyut indirgeme, veri dönüşümü ve matrislerin özelliklerini anlamak için kullanılır.
 ### Olasılık-İstatistik
+**[Olasılık Dağılımları:]()** Derin öğrenme modellerinde genellikle olasılık dağılımları kullanılır. Örneğin, sınıflandırma problemlerinde sınıflar arasındaki olasılık dağılımlarını tahmin etmek için kullanılır. En yaygın olarak kullanılan olasılık dağılımları arasında normal dağılım, Bernoulli dağılımı, çoknomiyal dağılım ve kategorik dağılım bulunur.
+
+**[En olası tahmin (Maximum Likelihood):]()** Derin öğrenme modellerinde, veriye dayalı en olası tahmini yapmak için maksimum olabilirlik (maximum likelihood) yöntemi kullanılır. Bu, veriyi en iyi açıklayan model parametrelerini seçmek için kullanılan bir istatistiksel tahminleme yöntemidir.
+
+**[Örnekleme (Sampling):]()** Derin öğrenme modelleri genellikle örnekleme işlemine dayalıdır. Örnekleme, olasılık dağılımlarına dayalı olarak yeni örnekler oluşturma sürecidir. Örneğin, jeneratif modeller, yeni görüntüler, metinler veya sesler oluşturmak için örnekleme işlemi kullanır.
+
+**[İstatistiksel Testler:]()** Derin öğrenme modelleri geliştirirken, modelin performansını değerlendirmek için istatistiksel testler kullanılabilir. Örneğin, hipotez testleri veya çapraz doğrulama (cross-validation) gibi yöntemlerle modelin doğruluğunu, hatayı veya performansını istatistiksel olarak analiz etmek mümkündür.
+
+**[Bayes Teorisi:]()** Bayes teorisi, derin öğrenme modellerinde istatistiksel çıkarımlar yapmak için kullanılan bir yöntemdir. Bayes teoremi, öncül bilgiyi ve veriyi birleştirerek sonuçları güncellemeyi sağlar. Bu, özellikle belirsizliklerin olduğu durumlarda model tahminlerini iyileştirmek için kullanılır.
+
+**[Veri Ön İşleme ve Normalleştirme:]()** Derin öğrenme modelleri, veri ön işleme adımlarını içerir. Bu adımlar arasında veri normalleştirme, veri temizleme, boyut indirgeme, veri standartlaştırma gibi istatistiksel yöntemler yer alır. Bu işlemler, verinin modele daha iyi uymasını sağlar ve eğitim sürecini iyileştirir.
 
 ## Kitaplar
 
