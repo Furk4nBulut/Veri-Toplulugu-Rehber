@@ -30,8 +30,8 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
   Derin öğrenme, geleneksel makine öğrenme yöntemlerine göre daha yüksek düzeyde otomatiklik ve veriye dayalı özellik öğrenimi sağlar. Ancak derin öğrenme modelleri, büyük miktarda veri ve hesaplama gücü gerektirebilir. Ayrıca, bu modellerin eğitim süreci karmaşık ve zaman alıcı olabilir.
 
-## Yol Haritası
-### Programlama 
+## YOL HARİTASI
+### PROGRAMLAMA
 **[TensorFlow:](#TensorFlow)** Derin öğrenme için en popüler açık kaynaklı kütüphanelerden biridir. Çok sayıda önceden eğitilmiş model ve derin öğrenme araçları sunar.
 
 **[Keras:](#Keras)** TensorFlow'un üzerine inşa edilen yüksek seviyeli bir derin öğrenme kütüphanesidir. Kullanımı kolay ve hızlı prototipler oluşturmanıza olanak tanır.
@@ -44,7 +44,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 **[Caffe:](#Caffe)** Hızlı ve etkili bir derin öğrenme kütüphanesidir. Özellikle görüntü sınıflandırma ve tanıma gibi görsel işleme problemlerinde yaygın olarak kullanılır.
 
-### Lineer Cebir
+### LİNEER CEBİR
 **[Vektörler ve Matrisler:]()** Lineer cebirde, vektörler ve matrisler temel yapı taşlarıdır. Vektörler, tek bir boyutlu verileri temsil ederken, matrisler iki boyutlu veri tablolarını temsil eder. Derin öğrenme uygulamalarında, genellikle ağırlıklar, özellikler ve gradyanlar gibi bilgileri temsil etmek için vektörler ve matrisler kullanılır.
 
 **[Doğrusal Bağımlılık:]()** Bir vektörün diğer vektörler tarafından doğrusal bir kombinasyonu olarak ifade edilebilmesine doğrusal bağımlılık denir. Derin öğrenme uygulamalarında, özelliklerin doğrusal bağımlılığını analiz etmek, aşırı uyum (overfitting) veya özellik seçimi gibi sorunları ele almak için önemlidir.
@@ -56,7 +56,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 **[Lineer Denklem Sistemleri:]()** Derin öğrenme modelleri genellikle lineer denklem sistemlerini çözmek için kullanılır. Bu denklemler, verileri temsil eden matrisler ve hedef değerleri temsil eden vektörler arasında bir ilişkiyi ifade eder. Modellerin eğitimi, bu denklem sistemlerini çözmeyi ve model parametrelerini ayarlamayı içerir.
 
 **[Eigenvektörler ve Eigendeğerler:]()** Bir matrisin eigenvektörleri, matrisin çarpımı sonucunda yalnızca bir ölçek faktörüyle değişmeyen vektörlerdir. Eigenvektörler ve eigendeğerler, derin öğrenme modellerinde boyut indirgeme, veri dönüşümü ve matrislerin özelliklerini anlamak için kullanılır.
-### Olasılık-İstatistik
+### OLASILIK-İSTATİSTİK
 **[Olasılık Dağılımları:]()** Derin öğrenme modellerinde genellikle olasılık dağılımları kullanılır. Örneğin, sınıflandırma problemlerinde sınıflar arasındaki olasılık dağılımlarını tahmin etmek için kullanılır. En yaygın olarak kullanılan olasılık dağılımları arasında normal dağılım, Bernoulli dağılımı, çoknomiyal dağılım ve kategorik dağılım bulunur.
 
 **[En olası tahmin (Maximum Likelihood):]()** Derin öğrenme modellerinde, veriye dayalı en olası tahmini yapmak için maksimum olabilirlik (maximum likelihood) yöntemi kullanılır. Bu, veriyi en iyi açıklayan model parametrelerini seçmek için kullanılan bir istatistiksel tahminleme yöntemidir.
@@ -69,7 +69,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 **[Veri Ön İşleme ve Normalleştirme:]()** Derin öğrenme modelleri, veri ön işleme adımlarını içerir. Bu adımlar arasında veri normalleştirme, veri temizleme, boyut indirgeme, veri standartlaştırma gibi istatistiksel yöntemler yer alır. Bu işlemler, verinin modele daha iyi uymasını sağlar ve eğitim sürecini iyileştirir.
 
-## Kitaplar
+## KİTAPLAR
 
-## Yazılar
+## YAZILAR
 
