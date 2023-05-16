@@ -65,9 +65,12 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Veri Ön İşleme ve Normalleştirme:]()** Derin öğrenme modelleri, veri ön işleme adımlarını içerir. Bu adımlar arasında veri normalleştirme, veri temizleme, boyut indirgeme, veri standartlaştırma gibi istatistiksel yöntemler yer alır. Bu işlemler, verinin modele daha iyi uymasını sağlar ve eğitim sürecini iyileştirir.
 
 ## Kitaplar
-* ## Programlama
-* ## Lineer Cebir
-* ## Olasılık-İstatistik
+### Programlama
+*
+### Lineer Cebir
+*
+### Olasılık-İstatistik
+* [Statistics The Art and Science of Learning from Data 4th edition]()
 
 
 
