@@ -75,7 +75,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Kitaplar
 ### Programlama
-
+* [Deep Learning with PyTorch](https://drive.google.com/file/d/1BIqGpwNqS9pipQ_hxRXiGXTT-5jcmp3m/view?usp=share_link)
 ### Lineer Cebir
 *
 ### Olasılık-İstatistik
