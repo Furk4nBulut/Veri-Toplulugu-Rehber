@@ -10,7 +10,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/verimcbu/)    [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/verimcbu)
 
 
-# İçindekiler
+# Rehberler
 
 * **[Makine Öğrenmesi Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Makine-%C3%96%C4%9Frenmesi.md)** 
 * **[Derin Öğrenme Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Derin-%C3%96%C4%9Frenme.md)**
