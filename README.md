@@ -67,6 +67,11 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ## Kitaplar
 ### Programlama
 * [TenserFlow Documentaion](https://www.tensorflow.org/api_docs)
+* [Keras Documentation](https://keras.io/getting_started/)
+* [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+* [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
+* [Theano Documentation](https://theano.readthedocs.io/en/0.8.x/)
+* [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
 ### Lineer Cebir
 *
 ### Olasılık-İstatistik
