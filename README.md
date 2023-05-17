@@ -65,7 +65,8 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 * **[Veri Ön İşleme ve Normalleştirme:]()** Derin öğrenme modelleri, veri ön işleme adımlarını içerir. Bu adımlar arasında veri normalleştirme, veri temizleme, boyut indirgeme, veri standartlaştırma gibi istatistiksel yöntemler yer alır. Bu işlemler, verinin modele daha iyi uymasını sağlar ve eğitim sürecini iyileştirir.
 
-## [Dokümantasyonlar](#docs)
+## Dokümantasyonlar
+   [Frameworks](#docs)
 * [TenserFlow Documentaion](https://www.tensorflow.org/api_docs)
 * [Keras Documentation](https://keras.io/getting_started/)
 * [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
