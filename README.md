@@ -64,6 +64,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Bayes Teorisi:]()** Bayes teorisi, derin öğrenme modellerinde istatistiksel çıkarımlar yapmak için kullanılan bir yöntemdir. Bayes teoremi, öncül bilgiyi ve veriyi birleştirerek sonuçları güncellemeyi sağlar. Bu, özellikle belirsizliklerin olduğu durumlarda model tahminlerini iyileştirmek için kullanılır.
 
 * **[Veri Ön İşleme ve Normalleştirme:]()** Derin öğrenme modelleri, veri ön işleme adımlarını içerir. Bu adımlar arasında veri normalleştirme, veri temizleme, boyut indirgeme, veri standartlaştırma gibi istatistiksel yöntemler yer alır. Bu işlemler, verinin modele daha iyi uymasını sağlar ve eğitim sürecini iyileştirir.
+
 ## [Dokümantasyonlar](#docs)
 * [TenserFlow Documentaion](https://www.tensorflow.org/api_docs)
 * [Keras Documentation](https://keras.io/getting_started/)
@@ -71,13 +72,14 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
 * [Theano Documentation](https://theano.readthedocs.io/en/0.8.x/)
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
+
 ## Kitaplar
 ### Programlama
 
 ### Lineer Cebir
 *
 ### Olasılık-İstatistik
-* [Statistics The Art and Science of Learning from Data 4th edition]()
+* [Statistics The Art and Science of Learning from Data 4th edition](https://drive.google.com/file/d/1CVGQBlWLVsAmirdD6I6tRleIFuE-s_0k/view?usp=share_link)
 
 
 
