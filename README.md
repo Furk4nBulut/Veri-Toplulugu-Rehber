@@ -75,7 +75,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
 
 ## Kütüphaneler
-### TenserFlow
+### TensorFlow
 
 ### Keras
 
