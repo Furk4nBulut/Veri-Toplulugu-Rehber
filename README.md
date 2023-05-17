@@ -11,7 +11,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 * **[Genel Bilgi](#genel-bilgi)** 
 * **[Yol Haritası](#yol-haritası)**
-* **[Dokümantasyonlar](#Dökümantasyonlar)**
+* **[Dokümantasyonlar](#Dokümantasyonlar)**
 * **[Kitaplar](#kitaplar)**
 
 
