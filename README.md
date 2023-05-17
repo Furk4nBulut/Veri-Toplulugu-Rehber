@@ -99,12 +99,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 
 ## Kitaplar
-
-### Programlama
-* 
-### Lineer Cebir
-*
-### Olasılık-İstatistik
 * [Statistics The Art and Science of Learning from Data 4th edition](https://drive.google.com/file/d/1CVGQBlWLVsAmirdD6I6tRleIFuE-s_0k/view?usp=share_link)
 
 
