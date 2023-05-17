@@ -26,7 +26,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
   Derin öğrenme, geleneksel makine öğrenme yöntemlerine göre daha yüksek düzeyde otomatiklik ve veriye dayalı özellik öğrenimi sağlar. Ancak derin öğrenme modelleri, büyük miktarda veri ve hesaplama gücü gerektirebilir. Ayrıca, bu modellerin eğitim süreci karmaşık ve zaman alıcı olabilir.
 
 ## Yol Haritası
-### Programalama
+### Frameworks
 * **[TensorFlow:](#Programlama)** Derin öğrenme için en popüler açık kaynaklı kütüphanelerden biridir. Çok sayıda önceden eğitilmiş model ve   derin öğrenme araçları sunar.
 
 * **[Keras:](#Keras)** TensorFlow'un üzerine inşa edilen yüksek seviyeli bir derin öğrenme kütüphanesidir. Kullanımı kolay ve hızlı prototipler  oluşturmanıza olanak tanır.
