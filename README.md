@@ -14,10 +14,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
 * **[Kütüphaneler](#Kütüphaneler)**
 * **[Kitaplar](#kitaplar)**
-*
-*
-*
-*
+
  ##  Genel Bilgi
   Derin öğrenme, yapay sinir ağları ve büyük veri setlerini kullanarak karmaşık problemleri çözmek için kullanılan bir makine öğrenme yöntemidir. Derin öğrenme, sinir ağlarının çok katmanlı yapısını kullanır ve veriye dayalı özelliklerin otomatik olarak öğrenilmesine odaklanır.
 
@@ -28,10 +25,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
   Derin öğrenme modelleri, genellikle büyük veri setleri üzerinde eğitilir. Bu veri setleri, genellikle insan uzmanları tarafından etiketlenmiş veya kategorize edilmiş veriler içerir. Eğitim süreci, ağırlık değerlerini güncelleyerek ve hata fonksiyonunu minimize ederek gerçekleştirilir. Daha sonra eğitilen model, yeni girdileri analiz ederek tahminlerde bulunabilir veya problemleri çözebilir.
 
   Derin öğrenme, geleneksel makine öğrenme yöntemlerine göre daha yüksek düzeyde otomatiklik ve veriye dayalı özellik öğrenimi sağlar. Ancak derin öğrenme modelleri, büyük miktarda veri ve hesaplama gücü gerektirebilir. Ayrıca, bu modellerin eğitim süreci karmaşık ve zaman alıcı olabilir.
-*
-*
-*
-*
+
 ## Yol Haritası
 ### Frameworks
 * **[TensorFlow:](#TensorFlow)** Derin öğrenme için en popüler açık kaynaklı kütüphanelerden biridir. Çok sayıda önceden eğitilmiş model ve   derin öğrenme araçları sunar.
@@ -70,10 +64,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Bayes Teorisi:]()** Bayes teorisi, derin öğrenme modellerinde istatistiksel çıkarımlar yapmak için kullanılan bir yöntemdir. Bayes teoremi, öncül bilgiyi ve veriyi birleştirerek sonuçları güncellemeyi sağlar. Bu, özellikle belirsizliklerin olduğu durumlarda model tahminlerini iyileştirmek için kullanılır.
 
 * **[Veri Ön İşleme ve Normalleştirme:]()** Derin öğrenme modelleri, veri ön işleme adımlarını içerir. Bu adımlar arasında veri normalleştirme, veri temizleme, boyut indirgeme, veri standartlaştırma gibi istatistiksel yöntemler yer alır. Bu işlemler, verinin modele daha iyi uymasını sağlar ve eğitim sürecini iyileştirir.
-*
-*
-*
-*
+
 ## Dokümantasyonlar
 
 * [TenserFlow Documentaion](https://www.tensorflow.org/api_docs)
@@ -82,10 +73,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
 * [Theano Documentation](https://theano.readthedocs.io/en/0.8.x/)
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
-*
-*
-*
-*
+
 ## Kütüphaneler
 
 ### TensorFlow
@@ -108,10 +96,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ### Caffe
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
 
-*
-*
-*
-*
+
 ## Kitaplar
 
 ### Programlama
