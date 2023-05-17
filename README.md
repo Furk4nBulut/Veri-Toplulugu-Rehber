@@ -83,6 +83,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ### PyTorch
 * [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+* [Deep Learning with PyTorrch](https://drive.google.com/file/d/1BIqGpwNqS9pipQ_hxRXiGXTT-5jcmp3m/view?usp=share_link)
 
 ### scikit-learn
 * [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
@@ -96,7 +97,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Kitaplar
 ### Programlama
-* [Deep Learning with PyTorch](https://drive.google.com/file/d/1BIqGpwNqS9pipQ_hxRXiGXTT-5jcmp3m/view?usp=share_link)
+* 
 ### Lineer Cebir
 *
 ### Olasılık-İstatistik
