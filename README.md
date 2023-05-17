@@ -29,13 +29,13 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Yol Haritası
 ### Frameworks
-* **[TensorFlow:](#Programlama)** Derin öğrenme için en popüler açık kaynaklı kütüphanelerden biridir. Çok sayıda önceden eğitilmiş model ve   derin öğrenme araçları sunar.
+* **[TensorFlow:](#TensorFlow)** Derin öğrenme için en popüler açık kaynaklı kütüphanelerden biridir. Çok sayıda önceden eğitilmiş model ve   derin öğrenme araçları sunar.
 
 * **[Keras:](#Keras)** TensorFlow'un üzerine inşa edilen yüksek seviyeli bir derin öğrenme kütüphanesidir. Kullanımı kolay ve hızlı prototipler  oluşturmanıza olanak tanır.
 
 * **[PyTorch:](#PyTorch)** Yine açık kaynaklı bir derin öğrenme kütüphanesidir. Dinamik grafikler kullanarak esnek bir şekilde model oluşturmanıza olanak sağlar.
 
-* **[scikit-learn:](#scikit)** Genel amaçlı bir makine öğrenimi kütüphanesidir. Derin öğrenme için önceden işleme, model seçimi ve   değerlendirme gibi bir dizi yardımcı işlev sunar.
+* **[scikit-learn:](#scikit-learn)** Genel amaçlı bir makine öğrenimi kütüphanesidir. Derin öğrenme için önceden işleme, model seçimi ve   değerlendirme gibi bir dizi yardımcı işlev sunar.
 
 * **[Theano:](#Theano)** Yüksek performanslı matematiksel işlemler yapabilen bir derin öğrenme kütüphanesidir. Biraz daha düşük seviyeli bir API'ye sahiptir ve TensorFlow ve Keras ile karşılaştırıldığında daha az popüler hale gelmiştir.
 
@@ -75,6 +75,17 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
 
 ## Kütüphaneler
+### TenserFlow
+
+### Keras
+
+### PyTorch
+
+## scikit-learn
+
+## Theano
+
+## Caffe
 
 ## Kitaplar
 ### Programlama
