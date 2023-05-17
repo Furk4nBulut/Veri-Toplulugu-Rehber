@@ -12,7 +12,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 # İçindekiler
 
-* **[Makine Öğrenmesi](https://github.com/Furk4nBulut/Rehber/blob/main/Makine-%C3%96%C4%9Frenmesi.md)** 
-* **[Derin Öğrenme](https://github.com/Furk4nBulut/Rehber/blob/main/Derin-%C3%96%C4%9Frenme.md)**
+* **[Makine Öğrenmesi Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Makine-%C3%96%C4%9Frenmesi.md)** 
+* **[Derin Öğrenme Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Derin-%C3%96%C4%9Frenme.md)**
 
 
