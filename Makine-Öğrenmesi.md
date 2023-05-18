@@ -1,6 +1,7 @@
 ![logo](https://i.hizliresim.com/2qlnhq0.jpg)
 # Manisa Celal Bayar Üniversitesi Veri Bilimi Topluluğu #
-Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Bilimi Topluluğu** üyeleri için hazırlanmış **Derin Öğrenme(Deep Learning)** rehberidir.
+Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Bilimi Topluluğu** üyeleri için hazırlanmış **Makine Öğrenmesi(Machine Learning)** rehberidir.
+Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 
 **Sosyal Medya Hesaplarımız**
 
