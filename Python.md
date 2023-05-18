@@ -10,11 +10,6 @@ Bu sayfadan Python ile ilgili kaynaklara ulaşabilirsiniz.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/verimcbu/)    [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/verimcbu)
 
 
-# İçindekiler
-* **[Dokümantasyon](#Dokümantasyonlar)**
-* **[Video Dersler](#Video-Dersler)**
-* **[Kitaplar](#kitaplar)**
-
 ## Dokümantasyon
 * [Python Dokümantasyon](https://docs.python.org/3/)
 
