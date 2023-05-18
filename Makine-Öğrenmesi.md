@@ -49,6 +49,24 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[OpenCV:]()** Bilgisayarlı görü ve görüntü işleme için kullanılan açık kaynaklı bir kütüphanedir. Nesne tanıma, yüz tanıma, görüntü işleme gibi uygulamalarda yaygın olarak kullanılır.
 
 
+  Makine öğrenmesi, bilgisayarların verilerden öğrenme ve tahmin yapma yeteneğine sahip olmasını sağlayan bir alan olarak büyük ilgi görmektedir. İşte makine öğrenmesi için bir yol haritası:
+
+  1. Temel Matematik ve İstatistik: Makine öğrenmesi için matematiksel ve istatistiksel temelleri anlamak önemlidir. Lineer cebir, olasılık teorisi, istatistiksel çıkarım gibi konulara hakim olmanızı öneririm.
+
+  2. Programlama Becerileri: Makine öğrenmesi için programlama dillerini öğrenmek önemlidir. Python, bu alanda yaygın olarak kullanılan bir dil olarak öne çıkmaktadır. Python'da veri manipülasyonu, veri analizi ve makine öğrenmesi kütüphanelerini kullanmayı öğrenmelisiniz.
+
+  3. Veri Manipülasyonu ve Veri Görselleştirme: Veri manipülasyonu, veri ön işleme ve veri görselleştirme becerilerini geliştirmek, makine öğrenmesi projelerinde veriye ilişkin anlayışınızı artıracaktır. Pandas ve Matplotlib gibi Python kütüphanelerini öğrenmek bu aşamada faydalı olacaktır.
+
+  4. Makine Öğrenmesi Temelleri: Makine öğrenmesi algoritmalarını ve temel kavramları öğrenmeye başlamalısınız. Denetimli ve denetimsiz öğrenme, sınıflandırma, regresyon, kümeleme gibi kavramlar üzerinde çalışmalısınız. Scikit-learn gibi Python kütüphaneleri, bu alanda kullanılan algoritmalara erişmenizi sağlayacaktır.
+
+  5. Derin Öğrenme: Derin öğrenme, karmaşık yapılara sahip veriler üzerinde etkili olan bir makine öğrenme yöntemidir. Derin öğrenme için temel sinir ağı kavramlarını öğrenmelisiniz. TensorFlow ve Keras gibi kütüphaneler, derin öğrenme projelerinde kullanılan araçlardır.
+
+  6. Model Değerlendirme ve Hata Analizi: Makine öğrenmesi modellerinin performansını değerlendirmek ve hataları analiz etmek önemlidir. Doğrulama kavramları, hata metrikleri ve hiperparametre ayarlaması gibi konular üzerinde çalışmalısınız.
+
+  7. Uygulama ve Proje Geliştirme: Makine öğrenmesi uygulamaları ve projeleri geliştirmek, gerçek dünya verileri üzerinde pratik yapmanızı sağlar. Bu süreçte yeni veri setleriyle çalışmak, algoritmaları uygulamak ve sonuçları analiz etmek önemlidir.
+
+  8. Güncel Gelişmeleri Takip Etmek: Makine öğrenmesi
+
 ## Dokümantasyonlar
 * [Numpy Dokümanstasyon](https://numpy.org/doc/)
 * [Pandas Dokümanstasyon](https://pandas.pydata.org/pandas-docs/stable/)
