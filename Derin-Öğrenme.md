@@ -114,6 +114,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Grokking Deep Learning - Meap](https://drive.google.com/file/d/1DO25smHOFW300OZ6CaCrO6yfJLSgO9qW/view?usp=share_link) 
 * [Deep Learning For Computer Vision (Muhommed Elgendy)](https://drive.google.com/file/d/1tRUFxXMsCj2XCPPu8HoFBIuMcoKhuN18/view?usp=share_link)
 * [Deep Learning An MIT Press Book](https://www.deeplearningbook.org/)
+* [Neural Networks and Deep Learning free online book](http://neuralnetworksanddeeplearning.com/)
 
 
 
