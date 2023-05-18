@@ -83,5 +83,11 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [Python ile Makine Öğrenmesi (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/python-ile-makine-ogrenmesi-11800)
 
 ## Kitaplar
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
+* [Machine Learning and Big Data](https://www.kareemalkaseer.com/books/ml)
+* [Introduction to Machine Learning(Draft of Incomplete Notes
+)](https://ai.stanford.edu/~nilsson/mlbook.html)
+* [Understanding Machine Kearning:From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+
 
 
