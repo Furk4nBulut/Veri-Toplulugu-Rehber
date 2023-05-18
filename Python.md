@@ -1,4 +1,4 @@
-![logo](https://i.hizliresim.com/i7pztue.jpg)
+![logo](https://i.hizliresim.com/tkcmbo8.jpg)
 # Manisa Celal Bayar Üniversitesi Veri Bilimi Topluluğu #
 Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Bilimi Topluluğu** üyeleri için hazırlanmış **Python** rehberidir.
 Bu sayfadan Python ile ilgili kaynaklara ulaşabilirsiniz.
