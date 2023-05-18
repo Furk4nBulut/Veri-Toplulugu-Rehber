@@ -17,3 +17,27 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
 * **[Kütüphaneler](#Kütüphaneler)**
 * **[Kitaplar](#kitaplar)**
+
+## Yol Haritası
+* **[TensorFlow:]()** Google tarafından geliştirilen açık kaynaklı bir derin öğrenme framework'üdür. Yüksek performanslı hesaplama için GPU desteği sağlar.
+
+* **[Keras:]() TensorFlow, Theano ve Microsoft Cognitive Toolkit gibi backend'leri destekleyen yüksek seviye bir derin öğrenme API'sidir. Kullanımı kolaydır ve hızlı prototipler geliştirmek için uygundur.
+
+* **[PyTorch:]() Facebook tarafından geliştirilen açık kaynaklı bir derin öğrenme framework'üdür. Dinamik graf yapısı sayesinde esneklik sağlar ve hızlı prototipler oluşturmayı kolaylaştırır.
+
+* **[scikit-learn:]() Python tabanlı bir makine öğrenmesi kütüphanesidir. Sınıflandırma, regresyon, kümeleme ve boyut indirgeme gibi birçok yaygın makine öğrenmesi algoritmasını destekler.
+
+* **[Caffe:]() Hızlı bir şekilde derin öğrenme modelleri eğitmek ve dağıtmak için kullanılan bir derin öğrenme framework'üdür. Görüntü işleme odaklıdır ve özellikle evrişimli sinir ağları (CNN) üzerinde etkilidir.
+
+* **[Microsoft Cognitive Toolkit (CNTK):]()** Microsoft tarafından geliştirilen bir derin öğrenme framework'üdür. Büyük ölçekli model eğitimi için optimize edilmiştir ve özellikle dil işleme ve konuşma tanıma gibi görevlerde kullanılır.
+
+* **[Theano:]()** Python tabanlı bir hesaplama kütüphanesidir ve özellikle derin öğrenme için kullanılır. Matematiksel ifadelerin sembolik hesaplamalarını yapmak için kullanışlıdır.
+
+## Dokümantasyonlar
+* [TensorFlow Dokümantasyon](https://www.tensorflow.org/api_docs)
+* [Keras Dokümantasyon](https://keras.io/)
+* [PyTorch Dokümantasyon](https://pytorch.org/docs/stable/index.html)
+* [Scikit-learn Dokümantasyon](https://scikit-learn.org/stable/index.html)
+* [Caffe Dokümantasyon](http://caffe.berkeleyvision.org/tutorial/)
+* [Microsoft Cognitive Toolkit (CNTK)](https://learn.microsoft.com/tr-tr/cognitive-toolkit/)
+* [Theano](https://theano.readthedocs.io/en/0.8.x/)
