@@ -77,5 +77,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [OpenCV Dokümanstasyon](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
 
 ## Kitaplar
-[Mathematics For Machine Learning](https://drive.google.com/file/d/1R0fbJOAdaQaqRdg-kpwd5m6F-21rxn-G/view?usp=share_link)
+* [Introduction to Engineering Mathemathics and Analysis](https://drive.google.com/file/d/1Sv3CuDbbTlRfKQyw0ZUaxGDPAyqPzCj1/view?usp=share_link)
+* [Mathematics For Machine Learning](https://drive.google.com/file/d/1R0fbJOAdaQaqRdg-kpwd5m6F-21rxn-G/view?usp=share_link)
+* [Introduction to Algorithms 3th Edition](https://drive.google.com/file/d/1Sv3CuDbbTlRfKQyw0ZUaxGDPAyqPzCj1/view?usp=share_link)
 
