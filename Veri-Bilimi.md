@@ -14,7 +14,7 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 * **[Genel Bilgi](#genel-bilgi)** 
 * **[Yol Haritası](#yol-haritası)**
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
-* **[Kütüphaneler](#Kütüphaneler)**
+* **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
 
 ## Genel Bilgi
@@ -36,6 +36,12 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
  *  **[TensorFlow:](https://www.tensorflow.org/api_docs)** TensorFlow, makine öğrenimi ve derin öğrenme uygulamaları için popüler bir açık kaynaklı kütüphanedir. TensorFlow, büyük ölçekte hesaplama gücü gerektiren karmaşık yapay sinir ağları ve derin öğrenme modellerinin oluşturulmasına olanak tanır. TensorFlow'un yanı sıra PyTorch ve Keras gibi diğer derin öğrenme kütüphaneleri de yaygın olarak kullanılır.
  *  **[Scikit-learn:](https://scikit-learn.org/stable/index.html)** Scikit-learn, Python tabanlı bir makine öğrenimi kütüphanesidir. Scikit-learn, sınıflandırma, regresyon, kümeleme, boyut indirgeme ve model seçimi gibi birçok temel makine öğrenimi algoritmasını içerir. Ayrıca, model değerlendirme, hiperparametre ayarlama ve veri önişleme gibi araçlar da sağlar.
 
+## Video Dersler
+* [Veri Bilimi ve Makine Öğrenmesi -Bootcamp 2022 (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/veri-bilimi-ve-makine-ogrenmesi-atolyesi-bootcamp-2022-19100)
+* [Veri Bilimi Dersleri (Tirendaz Akademi)](https://youtube.com/playlist?list=PLfMRLSpipmftNAJQjpSWLEPAC6UMf_3iE)
+* [Veri Bilimi Giriş Eğtimi-Python istatistik SQL (Data Science Earth)](https://youtube.com/playlist?list=PLFPoldtY4Izf1ieUxIs8-bmQW-ci7Pn7t)
+* [R Programlama ile Veri Analizi (Tirendaz Akademi)](https://youtube.com/playlist?list=PLfMRLSpipmfsI_H_2fLG-2fU0xIgXZFr5)
+* [Python Pandas ile Veri Analizi (Tirendaz Akademi)](https://youtube.com/playlist?list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20)
 
 ## Dokümantasyonlar
 * [R Dokümantasyon](https://www.rdocumentation.org/)
@@ -43,3 +49,6 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 * [Apache Spark Dokümantasyon](https://spark.apache.org/documentation.html)
 * [TensorFlow Dokümantasyon](https://www.tensorflow.org/api_docs)
 * [Scikit-learn Dokümantasyon](https://scikit-learn.org/stable/index.html)
+
+## Kitaplar
+* [Python Data Science Handbook (Jake VanderPlas)](https://jakevdp.github.io/PythonDataScienceHandbook/)
