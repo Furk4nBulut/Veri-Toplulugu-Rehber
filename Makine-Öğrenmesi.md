@@ -75,7 +75,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [Seaborn Dokümanstasyon](https://seaborn.pydata.org/tutorial.html)
 * [XGBoost Dokümanstasyon](https://xgboost.readthedocs.io/en/stable/)
 * [OpenCV Dokümanstasyon](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
-*
+
 
 ## Video Dersler
 * [Python ile Makine Öğrenmesi Giriş (Tirendaz Akademi)](https://www.youtube.com/playlist?list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF)
