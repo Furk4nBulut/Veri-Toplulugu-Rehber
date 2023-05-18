@@ -15,7 +15,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Genel Bilgi](#genel-bilgi)** 
 * **[Yol Haritası](#yol-haritası)**
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
-* **[Kütüphaneler](#Kütüphaneler)**
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
 
@@ -78,27 +77,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Theano Documentation](https://theano.readthedocs.io/en/0.8.x/)
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
 
-## Kütüphaneler
 
-### TensorFlow
-* [TenserFlow Documentaion](https://www.tensorflow.org/api_docs)
-
-### Keras
-* [Keras Documentation](https://keras.io/getting_started/)
-
-### PyTorch
-* [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-* [Deep Learning with PyTorrch](https://drive.google.com/file/d/1BIqGpwNqS9pipQ_hxRXiGXTT-5jcmp3m/view?usp=share_link)
-
-### scikit-learn
-* [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
-
-### Theano
-* [Theano Documentation](https://theano.readthedocs.io/en/0.8.x/)
-
-
-### Caffe
-* [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
 
 ## Video Dersler
 * [Derin Öğrenme (Mustafa Selçuk Çağlar)](https://youtube.com/playlist?list=PLrPKUEV0N1BRO8uli-5-XysJSXcsl-nMM)
