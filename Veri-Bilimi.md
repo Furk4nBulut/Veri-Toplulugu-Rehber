@@ -38,6 +38,7 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 
 ## Video Dersler
 * [Veri Bilimi ve Makine Öğrenmesi -Bootcamp 2022 (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/veri-bilimi-ve-makine-ogrenmesi-atolyesi-bootcamp-2022-19100)
+* [Veri Bilimi için Python ve Tensorflow (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/veri-bilimi-icin-python-ve-tensorflow-11705)
 * [Veri Bilimi Dersleri (Tirendaz Akademi)](https://youtube.com/playlist?list=PLfMRLSpipmftNAJQjpSWLEPAC6UMf_3iE)
 * [Veri Bilimi Giriş Eğtimi-Python istatistik SQL (Data Science Earth)](https://youtube.com/playlist?list=PLFPoldtY4Izf1ieUxIs8-bmQW-ci7Pn7t)
 * [R Programlama ile Veri Analizi (Tirendaz Akademi)](https://youtube.com/playlist?list=PLfMRLSpipmfsI_H_2fLG-2fU0xIgXZFr5)
