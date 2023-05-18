@@ -20,4 +20,7 @@ Bu sayfadan Python ile ilgili kaynaklara ulaşabilirsiniz.
 
 ## Kitaplar
 * [Python 101 (Micheal Driscoll)](https://leanpub.com/python_101)
+* [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+* [How Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
+
 
