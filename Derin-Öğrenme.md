@@ -1,4 +1,4 @@
-![logo](https://i.hizliresim.com/2qlnhq0.jpg)
+![logo](https://i.hizliresim.com/i7pztue.jpg)
 # Manisa Celal Bayar Üniversitesi Veri Bilimi Topluluğu #
 Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Bilimi Topluluğu** üyeleri için hazırlanmış **Derin Öğrenme(Deep Learning)** rehberidir.
 Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](https://docs.google.com/forms/d/e/1FAIpQLSczMPDGLATvOFSniiMnODwOjb_2Io8aiC6PEPW_t3K88UR5bA/alreadyresponded) doldurabilirsiniz.
