@@ -37,6 +37,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
   - Sağlık sektöründe hastalık teşhisi
 
 ## Yol Haritası
+### Kütüphaneler
 * **[NumPy:]()** Sayısal hesaplamalar ve çok boyutlu diziler için temel bir kütüphane. Makine öğrenmesi için veri manipülasyonu için sıklıkla kullanılır.
 * **[Pandas:]()** Veri analizi ve manipülasyonu için kullanılan bir kütüphane. Tablo verileriyle çalışmak için etkili bir araçtır.
 * **[Scikit-learn:]()** Python'da en popüler makine öğrenmesi kütüphanelerinden biridir. Çeşitli makine öğrenmesi algoritmaları, model seçimi, veri ön işleme ve değerlendirme araçları sunar.
@@ -48,24 +49,20 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * **[XGBoost:]()** Gradient boosting yöntemini uygulayan etkili bir makine öğrenmesi kütüphanesidir. Özellikle yapılandırılmış verilerle çalışmak için kullanılır.
 * **[OpenCV:]()** Bilgisayarlı görü ve görüntü işleme için kullanılan açık kaynaklı bir kütüphanedir. Nesne tanıma, yüz tanıma, görüntü işleme gibi uygulamalarda yaygın olarak kullanılır.
 
+### Diğer Konular
+ * **[İstatistiksel Kavramlar:]()** Makine öğrenmesi temel olarak istatistiksel yöntemler üzerine kuruludur. Olasılık teorisi, istatistiksel dağılımlar, regresyon analizi gibi konuları anlamak önemlidir.
 
-  Makine öğrenmesi, bilgisayarların verilerden öğrenme ve tahmin yapma yeteneğine sahip olmasını sağlayan bir alan olarak büyük ilgi görmektedir. İşte makine öğrenmesi için bir yol haritası:
+* **[Veri Ön İşleme:]()** Veri ön işleme, veri setlerini temizleme, ölçeklendirme, eksik değerleri doldurma gibi işlemleri içerir. Veri setlerini anlamak, önemli özellikleri seçmek ve gereksiz gürültüyü filtrelemek önemlidir.
 
-  1. Temel Matematik ve İstatistik: Makine öğrenmesi için matematiksel ve istatistiksel temelleri anlamak önemlidir. Lineer cebir, olasılık teorisi, istatistiksel çıkarım gibi konulara hakim olmanızı öneririm.
+* **[Makine Öğrenmesi Algoritmaları:]()** Makine öğrenmesi için farklı algoritmalar bulunmaktadır. İşaretli ve işaretsiz öğrenme algoritmaları, sınıflandırma, regresyon, kümeleme gibi konuları anlamak önemlidir. Örneğin, karar ağaçları, destek vektör makineleri, yapay sinir ağları, k-NN (k-en yakın komşu) gibi algoritmaları bilmek önemlidir.
 
-  2. Programlama Becerileri: Makine öğrenmesi için programlama dillerini öğrenmek önemlidir. Python, bu alanda yaygın olarak kullanılan bir dil olarak öne çıkmaktadır. Python'da veri manipülasyonu, veri analizi ve makine öğrenmesi kütüphanelerini kullanmayı öğrenmelisiniz.
+* **[Model Seçimi ve Değerlendirme:]()** Makine öğrenmesi modelleri oluşturulduktan sonra, bu modellerin performansını değerlendirmek önemlidir. Farklı metrikler (doğruluk, hassasiyet, geri çağırma vb.) kullanılarak modellerin performansı karşılaştırılabilir.
 
-  3. Veri Manipülasyonu ve Veri Görselleştirme: Veri manipülasyonu, veri ön işleme ve veri görselleştirme becerilerini geliştirmek, makine öğrenmesi projelerinde veriye ilişkin anlayışınızı artıracaktır. Pandas ve Matplotlib gibi Python kütüphanelerini öğrenmek bu aşamada faydalı olacaktır.
+* **[Özellik Mühendisliği:]()** Veri setlerindeki özelliklerin (feature) uygun şekilde tanımlanması ve seçilmesi, modelin performansını etkileyebilir. Özellik mühendisliği, veri setindeki özellikleri dönüştürme, yeni özellikler oluşturma veya önemli özellikleri seçme sürecini içerir.
 
-  4. Makine Öğrenmesi Temelleri: Makine öğrenmesi algoritmalarını ve temel kavramları öğrenmeye başlamalısınız. Denetimli ve denetimsiz öğrenme, sınıflandırma, regresyon, kümeleme gibi kavramlar üzerinde çalışmalısınız. Scikit-learn gibi Python kütüphaneleri, bu alanda kullanılan algoritmalara erişmenizi sağlayacaktır.
+* **[Derin Öğrenme: Derin öğrenme:]()** yapay sinir ağlarının çok katmanlı yapılarına dayalı bir makine öğrenmesi alt dalıdır. Derin öğrenme, büyük veri setlerinde daha karmaşık örüntüleri tanımak için güçlü bir araçtır. Yapay sinir ağları, evrişimli sinir ağları (CNN'ler), tekrarlayan sinir ağları (RNN'ler) gibi derin öğrenme modellerini anlamak önemlidir.
 
-  5. Derin Öğrenme: Derin öğrenme, karmaşık yapılara sahip veriler üzerinde etkili olan bir makine öğrenme yöntemidir. Derin öğrenme için temel sinir ağı kavramlarını öğrenmelisiniz. TensorFlow ve Keras gibi kütüphaneler, derin öğrenme projelerinde kullanılan araçlardır.
-
-  6. Model Değerlendirme ve Hata Analizi: Makine öğrenmesi modellerinin performansını değerlendirmek ve hataları analiz etmek önemlidir. Doğrulama kavramları, hata metrikleri ve hiperparametre ayarlaması gibi konular üzerinde çalışmalısınız.
-
-  7. Uygulama ve Proje Geliştirme: Makine öğrenmesi uygulamaları ve projeleri geliştirmek, gerçek dünya verileri üzerinde pratik yapmanızı sağlar. Bu süreçte yeni veri setleriyle çalışmak, algoritmaları uygulamak ve sonuçları analiz etmek önemlidir.
-
-  8. Güncel Gelişmeleri Takip Etmek: Makine öğrenmesi
+* **[Programlama ve Veri Analizi Araçları:]()** Makine öğrenmesi için genellikle Python gibi programlama dilleri ve kütüphaneleri kullanılır. Python'da popüler olan NumPy, Pandas, Scikit-learn, TensorFlow, Keras gibi kütüphaneleri öğrenmek önemlidir. Ayrıca, veri analizi ve görselleştirme için Matplotlib, Seaborn gibi kütüphaneleri de kullanabilirsiniz.
 
 ## Dokümantasyonlar
 * [Numpy Dokümanstasyon](https://numpy.org/doc/)
