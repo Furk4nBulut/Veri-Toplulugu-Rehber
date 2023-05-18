@@ -101,7 +101,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 
 ## Kitaplar
-* [Statistics The Art and Science of Learning from Data 4th edition(](https://drive.google.com/file/d/1CVGQBlWLVsAmirdD6I6tRleIFuE-s_0k/view?usp=share_link)
+* [Statistics The Art and Science of Learning from Data 4th edition](https://drive.google.com/file/d/1CVGQBlWLVsAmirdD6I6tRleIFuE-s_0k/view?usp=share_link)
 * [Deep Learning For Python(François Chollet)](https://drive.google.com/file/d/1_YzIFKzHRFutZ0hEeuoykCO-ORiAWI9E/view?usp=share_link)
 * [Grokking Deep Learning - Meap](https://drive.google.com/file/d/1DO25smHOFW300OZ6CaCrO6yfJLSgO9qW/view?usp=share_link) 
 * [Deep Learning For Computer Vision (Muhommed Elgendy)](https://drive.google.com/file/d/1tRUFxXMsCj2XCPPu8HoFBIuMcoKhuN18/view?usp=share_link)
