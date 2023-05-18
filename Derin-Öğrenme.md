@@ -16,6 +16,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Yol Haritası](#yol-haritası)**
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
 * **[Kütüphaneler](#Kütüphaneler)**
+* **[Video Dersler](#Video Dersler)**
 * **[Kitaplar](#kitaplar)**
 
  ##  Genel Bilgi
@@ -99,12 +100,19 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ### Caffe
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
 
+## Video Dersler
+* [Derin Öğrenme (Mustafa Selçuk Çağlar)](https://youtube.com/playlist?list=PLrPKUEV0N1BRO8uli-5-XysJSXcsl-nMM)
+* [Keras İle Derin Öğrenme (Makine Öğrenmesi)](https://youtube.com/playlist?list=PLRRY18KNZTgUyaxSRvExF7zNsIpaehl5e)
+* [Python ile Derin Öğrenme Yapay Zeka Dersleri (Tirendaz Akademi)](https://youtube.com/playlist?list=PLfMRLSpipmftdjM4l9u7adgDZGDM7vNLE)
+* [6.S191: Introduction to Deep Learning Massachusetts Institute of Technology via Independent](https://www.classcentral.com/course/independent-6-s191-introduction-to-deep-learning-8083)
+* 
 
 ## Kitaplar
 * [Statistics The Art and Science of Learning from Data 4th edition](https://drive.google.com/file/d/1CVGQBlWLVsAmirdD6I6tRleIFuE-s_0k/view?usp=share_link)
 * [Deep Learning For Python(François Chollet)](https://drive.google.com/file/d/1_YzIFKzHRFutZ0hEeuoykCO-ORiAWI9E/view?usp=share_link)
 * [Grokking Deep Learning - Meap](https://drive.google.com/file/d/1DO25smHOFW300OZ6CaCrO6yfJLSgO9qW/view?usp=share_link) 
 * [Deep Learning For Computer Vision (Muhommed Elgendy)](https://drive.google.com/file/d/1tRUFxXMsCj2XCPPu8HoFBIuMcoKhuN18/view?usp=share_link)
+* [Deep Learning at Oxford 2015](https://youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
 
 
