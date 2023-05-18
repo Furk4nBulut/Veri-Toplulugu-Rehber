@@ -15,7 +15,6 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * **[Genel Bilgi](#genel-bilgi)** 
 * **[Yol Haritası](#yol-haritası)**
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
-* **[Kütüphaneler](#Kütüphaneler)**
 * **[Kitaplar](#kitaplar)**
 
 ## Genel Bilgi
