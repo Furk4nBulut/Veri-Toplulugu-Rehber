@@ -19,5 +19,5 @@ Bu sayfadan Python ile ilgili kaynaklara ulaşabilirsiniz.
 * [Python Dersleri (Tirendaz Akademi)](https://youtube.com/playlist?list=PLfMRLSpipmfvXkTUYk8hCY0Ql8B0cHlpt)
 
 ## Kitaplar
-* [Python 101 (Micheal Driscoll](https://leanpub.com/python_101)
+* [Python 101 (Micheal Driscoll)](https://leanpub.com/python_101)
 
