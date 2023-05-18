@@ -15,6 +15,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * **[Genel Bilgi](#genel-bilgi)** 
 * **[Yol Haritası](#yol-haritası)**
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
+* **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
 
 ## Genel Bilgi
@@ -74,6 +75,12 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [Seaborn Dokümanstasyon](https://seaborn.pydata.org/tutorial.html)
 * [XGBoost Dokümanstasyon](https://xgboost.readthedocs.io/en/stable/)
 * [OpenCV Dokümanstasyon](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
+*
+
+## Video Dersler
+* [Python ile Makine Öğrenmesi Giriş (Tirendaz Akademi)](https://www.youtube.com/playlist?list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF)
+* [Makine Öğrenmesine Giriş (Özkan Yılmaz)](https://www.youtube.com/playlist?list=PLlHW_nnK3v5hlnKAsAUToYFCHYGBsR_6a)
+* [Python ile Makine Öğrenmesi (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/python-ile-makine-ogrenmesi-11800)
 
 ## Kitaplar
 * [Introduction to Engineering Mathemathics and Analysis](https://drive.google.com/file/d/1Sv3CuDbbTlRfKQyw0ZUaxGDPAyqPzCj1/view?usp=share_link)
