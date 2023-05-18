@@ -15,7 +15,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Genel Bilgi](#genel-bilgi)** 
 * **[Yol Haritası](#yol-haritası)**
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
-* **[Kütüphaneler](#Kütüphaneler)**
+* **[Video Dersler](#Video-dersler)**
 * **[Kitaplar](#kitaplar)**
 
 ## Genel Bilgi
@@ -43,3 +43,12 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Caffe Dokümantasyon](http://caffe.berkeleyvision.org/tutorial/)
 * [Microsoft Cognitive Toolkit (CNTK)](https://learn.microsoft.com/tr-tr/cognitive-toolkit/)
 * [Theano](https://theano.readthedocs.io/en/0.8.x/)
+
+
+## Video Dersler
+* [Yapay Zeka ve Algoritmalarına Giriş (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/yapay-zeka-ve-algoritmalarina-giris-17500)
+* [Yapay Zeka (Artifical Intelligence) (BilgisayarKavramlari)](https://youtube.com/playlist?list=PLh9ECzBB8tJOtaD6DFxqRdP7QHIaBFcbW)
+* [Yapay Zeka Dersleri (Muhammet Kürşat Uçar MKU Teknoloji)](https://youtube.com/playlist?list=PLFOjPla6D8-k9n6AbTxM-SlzvN54z9Av6)
+
+## Kitaplar
+* [Think Bayes - Bayesian Statictics in Python](https://greenteapress.com/wp/think-bayes/)
