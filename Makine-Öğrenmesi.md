@@ -47,3 +47,17 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Seaborn:]()** Matplotlib'e dayalı bir istatistiksel veri görselleştirme kütüphanesidir. Veri keşfi ve görselleştirme için daha yüksek seviye bir arayüz sunar.
 * **[XGBoost:]()** Gradient boosting yöntemini uygulayan etkili bir makine öğrenmesi kütüphanesidir. Özellikle yapılandırılmış verilerle çalışmak için kullanılır.
 * **[OpenCV:]()** Bilgisayarlı görü ve görüntü işleme için kullanılan açık kaynaklı bir kütüphanedir. Nesne tanıma, yüz tanıma, görüntü işleme gibi uygulamalarda yaygın olarak kullanılır.
+
+
+## Dokümantasyonlar
+* [Numpy Dokümanstasyon](https://numpy.org/doc/)
+* [Pandas Dokümanstasyon](https://pandas.pydata.org/pandas-docs/stable/)
+* [Scikit-learn Dokümanstasyon](https://scikit-learn.org/stable/index.html)
+* [TensorFlow Dokümanstasyon](https://www.tensorflow.org/api_docs)
+* [Keras Dokümanstasyon](https://keras.io/)
+* [PyTorch Dokümanstasyon](https://pytorch.org/docs/stable/index.html)
+* [Matplotlib Dokümanstasyon](https://matplotlib.org/stable/index.html)
+* [Seaborn Dokümanstasyon](https://seaborn.pydata.org/tutorial.html)
+* [XGBoost Dokümanstasyon](https://xgboost.readthedocs.io/en/stable/)
+* [OpenCV Dokümanstasyon](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
+
