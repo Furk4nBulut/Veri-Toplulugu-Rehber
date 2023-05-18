@@ -106,6 +106,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Python ile Derin Öğrenme Yapay Zeka Dersleri (Tirendaz Akademi)](https://youtube.com/playlist?list=PLfMRLSpipmftdjM4l9u7adgDZGDM7vNLE)
 * [6.S191: Introduction to Deep Learning Massachusetts Institute of Technology via Independent](https://www.classcentral.com/course/independent-6-s191-introduction-to-deep-learning-8083)
 * [Deep Learning at Oxford 2015](https://youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+* [Keras ile Derin Öğrenmeye Giriş (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599)
 
 
 ## Kitaplar
