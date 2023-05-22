@@ -15,6 +15,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Genel Bilgi](#genel-bilgi)** 
 * **[Yol Haritası](#yol-haritası)**
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
+* **[Kütüphaneler](#kütüphaneler)**
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
 
@@ -76,6 +77,10 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
 * [Theano Documentation](https://theano.readthedocs.io/en/0.8.x/)
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
+
+## Kütüphaneler
+### TenserFlow
+*
 
 
 
