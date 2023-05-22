@@ -70,17 +70,46 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **Veri Ön İşleme ve Normalleştirme:** Derin öğrenme modelleri, veri ön işleme adımlarını içerir. Bu adımlar arasında veri normalleştirme, veri temizleme, boyut indirgeme, veri standartlaştırma gibi istatistiksel yöntemler yer alır. Bu işlemler, verinin modele daha iyi uymasını sağlar ve eğitim sürecini iyileştirir.
 
 ## Dokümantasyonlar
-
+### TensorFlow
+* [TensorFlow ile Derin Öğrenmeye Giriş](https://emredurukn.github.io/2016/11/02/tensorflow-ile-derin-ogrenmeye-giris.html) (Emre Durukan)
+* [Tensorflow'u Anlamak](https://mcemilg.github.io/general/2017/11/23/tensorflow/) (M.Cemil Güney)
+* [Tensorflow Türkçe Eğitim Dökümanları](https://github.com/Aelvangunduz/tensorflow_tutorials) (Ayse Elvan Aydemir)
+* [Tensorflow 101](https://veribilimcisi.com/tensorflow-101/) (Seray Beşer)
 * [TenserFlow Documentaion](https://www.tensorflow.org/api_docs)
+
+### Keras
+* [Keras'a Giriş-1](http://derindelimavi.blogspot.com.tr/2017/01/keras-giris-1.html) (Birol Kuyumcu)
+* [Keras'a Giriş-2 ( LSTM )](http://derindelimavi.blogspot.com.tr/2017/03/kerasa-giris-2-lstm.html) (Birol Kuyumcu)
+* [Keras Türkçe Dokümantasyon](https://github.com/kemalcanbora/keras_turkish_doc) (Kemalcan Bora)
+* [Keras Kurulumu](http://ibrahimdelibasoglu.blogspot.com.tr/2017/08/python-tensorflow-ile-keras-derin.html) (İbrahim Delibaşoğlu)
+* [Keras ile Sonar Verisi Sınıflandırma](http://ibrahimdelibasoglu.blogspot.com.tr/2017/09/keras-ile-derin-ogrenmeye-giris-snflama.html) (İbrahim Delibaşoğlu)
 * [Keras Documentation](https://keras.io/getting_started/)
+
+### PyTorch
+* [PyTorch ile Derin Öğrenmeye Giriş: Kurulum](https://medium.com/@ozgungenc/pytorch-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-kurulum-2194a06ce0c) (Özgün Genç)
 * [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-* [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
-* [Theano Documentation](https://theano.readthedocs.io/en/0.8.x/)
+
+### Caffe
+* [Caffe Kılavuzu - Tüm detaylarıyla Caffe ile çalışma rehberi](https://www.slideshare.net/bluekid/caffe-klavuzu) (Birol Kuyumcu)
+* [Pratik Caffe Kullanımı](https://www.slideshare.net/bluekid/pratik-caffe) (Birol Kuyumcu)
+* [Caffe Fine Tuning: Caffe'yi Kendi Verisetiniz ile Kullanma](http://blog.yavuzz.com/post/caffe-fine-tuning) (Yavuz Kömeçoğlu)
+* [Windows İşletim Sistemi için Caffe Kurulumu](http://mesutpiskin.com/blog/windows-icin-caffe-kurulumu.html) (Mesut Pişkin)
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
 
-## Kütüphaneler
-### TenserFlow
-*
+
+* [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
+* [Theano Documentation](https://theano.readthedocs.io/en/0.8.x/)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
