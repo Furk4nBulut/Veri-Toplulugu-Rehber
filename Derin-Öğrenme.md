@@ -96,8 +96,10 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Windows İşletim Sistemi için Caffe Kurulumu](http://mesutpiskin.com/blog/windows-icin-caffe-kurulumu.html) (Mesut Pişkin)
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
 
-
+## Scikit-learn
 * [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
+
+## Theano 
 * [Theano Documentation](https://theano.readthedocs.io/en/0.8.x/)
 
 
