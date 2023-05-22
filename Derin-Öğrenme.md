@@ -44,7 +44,13 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Theano:](#Theano)** Yüksek performanslı matematiksel işlemler yapabilen bir derin öğrenme kütüphanesidir. Biraz daha düşük seviyeli bir API'ye sahiptir ve TensorFlow ve Keras ile karşılaştırıldığında daha az popüler hale gelmiştir.
 
 * **[Caffe:](#Caffe)** Hızlı ve etkili bir derin öğrenme kütüphanesidir. Özellikle görüntü sınıflandırma ve tanıma gibi görsel işleme problemlerinde yaygın olarak kullanılır.
+* **[Julia:](#Julia)** Julia, açık kaynak kodlu, yüksek performanslı ve yüksek seviyede programlanabilen bir dil olarak derin öğrenmeye giriş için uygun bir platform oluşturmaktadır. Knet.j ise Julia üzerinde Deniz Yüret ve ortakları tarafından uygulanan derin öğrenme çerçevesidir. Knet.jl derin öğrenme modellerinin program fonksiyonlarına yakın bir dille tanımlanmasına izin vermekte, alt fonksiyonlar kullanarak kompleks modellerin kolaylıkla geliştirilmesine olanak sağlamakta, model eğitimi için gerekli türev ve güncelleştirme işlemlerini otomatikleştirerek kullanıcının model yapısına konsantre olmasını kolaylaştırmaktadır
+*  **[MatConvNet:](#MatConvNet)** MatConvNet, derin öğrenme platformları ve kütüphanelerinden biridir. Derin öğrenme, yapay zekâ alanında çığır açmıştır. Derin Öğrenmeyle birlikte makineler ses, görüntü, sinyal, metin gibi verileri kullanarak sınıflandırma, nesne tanıma, ses tanıma ya da dil çevirileri gibi özelleşmiş görevleri en az hatayla yerine getirirler.
 
+Kaynak: Bing ile konuşma, 22/05/2023
+(1) Derin Öğrenme. ImageNet isimli dünyanın en önemli… | by ... - Medium. https://medium.com/yapay-zeka-makine-%C3%B6%C4%9Frenmesi-derin-%C3%B6%C4%9Frenme/derin-%C3%B6%C4%9Frenme-78e3f5d2765.
+(2) MATLAB ile "Derin Öğrenme" Algoritmaları Kullanarak Görüntü İşleme. https://www.elektrikport.com/makale-detay/matlab-ile-derin-ogrenme-algoritmalari-kullanarak-goruntu-isleme/16749.
+(3) Matlab CNN (MatconvNet) | Gökhan ALTAN. http://www.gokhanaltan.com/2019/05/08/matlab-cnn-matconvnet/.
 ### Lineer Cebir
 * **Vektörler ve Matrisler:** Lineer cebirde, vektörler ve matrisler temel yapı taşlarıdır. Vektörler, tek bir boyutlu verileri temsil ederken, matrisler iki boyutlu veri tablolarını temsil eder. Derin öğrenme uygulamalarında, genellikle ağırlıklar, özellikler ve gradyanlar gibi bilgileri temsil etmek için vektörler ve matrisler kullanılır.
 
