@@ -18,6 +18,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Kütüphaneler](#kütüphaneler)**
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
+*  **[Bloglar](#bloglar)**
 
  ##  Genel Bilgi
   Derin öğrenme, yapay sinir ağları ve büyük veri setlerini kullanarak karmaşık problemleri çözmek için kullanılan bir makine öğrenme yöntemidir. Derin öğrenme, sinir ağlarının çok katmanlı yapısını kullanır ve veriye dayalı özelliklerin otomatik olarak öğrenilmesine odaklanır.
@@ -96,11 +97,20 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Windows İşletim Sistemi için Caffe Kurulumu](http://mesutpiskin.com/blog/windows-icin-caffe-kurulumu.html) (Mesut Pişkin)
 * [Caffe Documentation](http://caffe.berkeleyvision.org/tutorial/)
 
-## Scikit-learn
+### Scikit-learn
 * [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
 
-## Theano 
+### Theano 
 * [Theano Documentation](https://theano.readthedocs.io/en/0.8.x/)
+
+### Julia
+* [Julia Dokümantasyon](https://docs.julialang.org/en/v1/)
+* [Julia ve Knet ile Derin Öğrenmeye Giriş](https://youtu.be/3TR3Rx-Esis) (Doç. Dr. Deniz Yuret) {104 dakika}
+
+### MatConvNet
+* [MatConvNet Dokümantasyon](https://www.vlfeat.org/matconvnet/#documentation)-
+* [MatConvNet ve Matlab ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=nRVQQNw4Kh4&t=8s) (Ahmet Gökhan POYRAZ) {5 Video, eklemeler yapılacaktır}
+
 
 
 
@@ -127,7 +137,20 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ## Kitaplar
 * [Deep Learning An MIT Press Book](https://www.deeplearningbook.org/)
 * [Neural Networks and Deep Learning free online book](http://neuralnetworksanddeeplearning.com/)
+### Ücretli Kitaplar
+* [Yapay Öğrenme - Ethem Alpaydın](http://www.idefix.com/Kitap/Yapay-Ogrenme/Ethem-Alpaydin/Bilim/Populer-Bilim/urunno=0000000362293)
+* [Derin Öğrenme - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.kitapyurdu.com/kitap/derin-ogrenme-ciltli/480279.html)
+* [OpenCv Görüntü İşleme ve Yapay Öğrenme - Birol Kuyumcu](http://www.kitapyurdu.com/kitap/opencv-goruntu-isleme-ve-yapay-ogrenme/376463.html)
+* [Yapay Zeka - Vasif Vagifoğlu Nabiyev](http://www.dr.com.tr/Kitap/Yapay-Zeka-Problemler-Yontemler-Algoritma-/Vasif-Vagifoglu-Nabiyev/Bilim/Populer-Bilim/urunno=0000000435115)
 
+## Bloglar
+* [Deep Learning Türkiye Blog](http://medium.com/deep-learning-turkiye)
+* [veridefteri.com](http://veridefteri.com/)
+* [zekimakine.com](http://zekimakine.com/)
+* [veribilimcisi.com](https://veribilimcisi.com/)
+* [alpslabel.wordpress.com](https://alpslabel.wordpress.com//)
+* [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com)
+* [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
 
 
 
