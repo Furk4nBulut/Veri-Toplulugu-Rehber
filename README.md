@@ -133,19 +133,13 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ## DONANIM VE BULUT DESTEKLERİ
 
 ### Donanım
-
-#### NVIDIA Titan Serisi
-
-#### NVIDIA Jetson TX Serisi
-
 #### Intel-Movidius Neural Compute Stick
 * [INTEL-Movidius Neural Compute Stick Nedir ve Nasıl Kullanılır](https://medium.com/deep-learning-turkiye/intel-movidius-neural-compute-stick-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-85fc9af6dc26) (Merve Ayyüce Kızrak)
-* [Raspberry Pi 3 üzerinde Intel Movidius Neural Compute Stick ile Derin Öğrenme Uygulamaları Çalıştırma](http://blog.yavuzz.com/post/raspberry-pi-3-uzerinde-intel-movidius-neural-compute-stick-ile-derin-ogrenme-uygulamalari-calistirma) (Yavuz Kömeçoğlu)
-
-### Bulut
 
 #### Google  Colaboratory 
 * [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e) (Fuat)
+
+
 ### Derin öğrenme için sistem hazırlama ve Kurulum rehberleri
 #### Ekran kartı sürücüsü, Cuda ve Cudnn Kurulumu
 * [NVIDIA GPU Sürücüsü, CUDA ve cudNN Kurulum Rehberi](https://github.com/earcz/NVIDIA-GPU-Surucusu-ve-CUDA-Yukleme) (Ender Ayhan Rencüzoğulları)
