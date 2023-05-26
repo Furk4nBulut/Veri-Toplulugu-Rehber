@@ -21,19 +21,25 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ## Genel Bilgi
   Yapay zeka, insan gibi davranışlar ve hareketler sergileyebilen makinelerin geliştirilmesi teknolojisinin genel adıdır. Yapay zeka, makine öğrenimi, derin öğrenme, doğal dil işleme, bilgisayarlı görü ve robotik gibi alt alanlara ayrılır. Yapay zeka, verilerdeki modelleri tanıyarak tahminler yapmak, verilerden değer elde etmek ve karmaşık görevleri otomatikleştirmek gibi pek çok alanda işe yarar.
 ## Yol Haritası
-* **[TensorFlow:]()** Google tarafından geliştirilen açık kaynaklı bir derin öğrenme framework'üdür. Yüksek performanslı hesaplama için GPU desteği sağlar.
+### Temel Konular
+* [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](https://medium.com/deep-learning-turkiye/motivasyon-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-48d09355388d) (Merve Ayyüce Kızrak)
+* [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](http://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html) (Arda Mavi)
 
-* **[Keras:]()** TensorFlow, Theano ve Microsoft Cognitive Toolkit gibi backend'leri destekleyen yüksek seviye bir derin öğrenme API'sidir. Kullanımı kolaydır ve hızlı prototipler geliştirmek için uygundur.
 
-* **[PyTorch:]()** Facebook tarafından geliştirilen açık kaynaklı bir derin öğrenme framework'üdür. Dinamik graf yapısı sayesinde esneklik sağlar ve hızlı prototipler oluşturmayı kolaylaştırır.
+### Kütüphaneler
+* **[TensorFlow:](#Dokümantasyonlar)** Google tarafından geliştirilen açık kaynaklı bir derin öğrenme framework'üdür. Yüksek performanslı hesaplama için GPU desteği sağlar.
 
-* **[scikit-learn:]()** Python tabanlı bir makine öğrenmesi kütüphanesidir. Sınıflandırma, regresyon, kümeleme ve boyut indirgeme gibi birçok yaygın makine öğrenmesi algoritmasını destekler.
+* **[Keras:](#Dokümantasyonlar)** TensorFlow, Theano ve Microsoft Cognitive Toolkit gibi backend'leri destekleyen yüksek seviye bir derin öğrenme API'sidir. Kullanımı kolaydır ve hızlı prototipler geliştirmek için uygundur.
 
-* **[Caffe:]()** Hızlı bir şekilde derin öğrenme modelleri eğitmek ve dağıtmak için kullanılan bir derin öğrenme framework'üdür. Görüntü işleme odaklıdır ve özellikle evrişimli sinir ağları (CNN) üzerinde etkilidir.
+* **[PyTorch:](#Dokümantasyonlar)** Facebook tarafından geliştirilen açık kaynaklı bir derin öğrenme framework'üdür. Dinamik graf yapısı sayesinde esneklik sağlar ve hızlı prototipler oluşturmayı kolaylaştırır.
 
-* **[Microsoft Cognitive Toolkit (CNTK):]()** Microsoft tarafından geliştirilen bir derin öğrenme framework'üdür. Büyük ölçekli model eğitimi için optimize edilmiştir ve özellikle dil işleme ve konuşma tanıma gibi görevlerde kullanılır.
+* **[scikit-learn:](#Dokümantasyonlar)** Python tabanlı bir makine öğrenmesi kütüphanesidir. Sınıflandırma, regresyon, kümeleme ve boyut indirgeme gibi birçok yaygın makine öğrenmesi algoritmasını destekler.
 
-* **[Theano:]()** Python tabanlı bir hesaplama kütüphanesidir ve özellikle derin öğrenme için kullanılır. Matematiksel ifadelerin sembolik hesaplamalarını yapmak için kullanışlıdır.
+* **[Caffe:](#Dokümantasyonlar)** Hızlı bir şekilde derin öğrenme modelleri eğitmek ve dağıtmak için kullanılan bir derin öğrenme framework'üdür. Görüntü işleme odaklıdır ve özellikle evrişimli sinir ağları (CNN) üzerinde etkilidir.
+
+* **[Microsoft Cognitive Toolkit (CNTK):](#Dokümantasyonlar)** Microsoft tarafından geliştirilen bir derin öğrenme framework'üdür. Büyük ölçekli model eğitimi için optimize edilmiştir ve özellikle dil işleme ve konuşma tanıma gibi görevlerde kullanılır.
+
+* **[Theano:](#Dokümantasyonlar)** Python tabanlı bir hesaplama kütüphanesidir ve özellikle derin öğrenme için kullanılır. Matematiksel ifadelerin sembolik hesaplamalarını yapmak için kullanışlıdır.
 
 ## Dokümantasyonlar
 * [TensorFlow Dokümantasyon](https://www.tensorflow.org/api_docs)
