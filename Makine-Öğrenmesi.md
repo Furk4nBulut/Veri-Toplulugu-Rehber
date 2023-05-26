@@ -64,16 +64,26 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 
 * **[Programlama ve Veri Analizi Araçları:]()** Makine öğrenmesi için genellikle Python gibi programlama dilleri ve kütüphaneleri kullanılır. Python'da popüler olan NumPy, Pandas, Scikit-learn, TensorFlow, Keras gibi kütüphaneleri öğrenmek önemlidir. Ayrıca, veri analizi ve görselleştirme için Matplotlib, Seaborn gibi kütüphaneleri de kullanabilirsiniz.
 
-## Dokümantasyonlar
+## Kütüphaneler
+### Numpy
 * [Numpy Dokümanstasyon](https://numpy.org/doc/)
+### Pandas
 * [Pandas Dokümanstasyon](https://pandas.pydata.org/pandas-docs/stable/)
+### Scikit-learn
 * [Scikit-learn Dokümanstasyon](https://scikit-learn.org/stable/index.html)
+### TensorFlow
 * [TensorFlow Dokümanstasyon](https://www.tensorflow.org/api_docs)
+### Keras
 * [Keras Dokümanstasyon](https://keras.io/)
+### PyTorch
 * [PyTorch Dokümanstasyon](https://pytorch.org/docs/stable/index.html)
+### Matplotlib
 * [Matplotlib Dokümanstasyon](https://matplotlib.org/stable/index.html)
+### Seaborn
 * [Seaborn Dokümanstasyon](https://seaborn.pydata.org/tutorial.html)
+### XGBoost
 * [XGBoost Dokümanstasyon](https://xgboost.readthedocs.io/en/stable/)
+### OpenCV
 * [OpenCV Dokümanstasyon](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
 
 
