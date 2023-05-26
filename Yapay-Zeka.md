@@ -64,6 +64,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Kitaplar
 * [Think Bayes - Bayesian Statictics in Python](https://greenteapress.com/wp/think-bayes/)
+* [Introduction to Artificial Intelligence (Wolfgang Ertel)](https://link.springer.com/book/10.1007/978-3-319-58487-4)
 
 ## Algoritmalar
 * [Yapay Zeka Algoritmaları (Fahrettin Filiz)](https://medium.com/@fahrettinf/4-1-yapay-zeka-algoritmalar%C4%B1-fd64b8080748) 
