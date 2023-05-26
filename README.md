@@ -198,7 +198,6 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [SemEval-2016 ABSA Telecom Tweets-Turkish: Test Data-Phase A (Subtask 1)](http://metashare.ilsp.gr:8080/repository/browse/semeval-2016-absa-telecom-tweets-turkish-test-data-phase-a-subtask-1/5343e408ba0811e5ab4f842b2b6a04d71f53ece5fa7a4dd286e99e539ac3e27f/)
 * [SemEval-2016 ABSA Restaurant Reviews-Turkish: Train Data (Subtask 1)](http://metashare.ilsp.gr:8080/repository/browse/semeval-2016-absa-restaurant-reviews-turkish-train-data-subtask-1/ff5dad70676311e5bf9c842b2b6a04d71fa7fa3ba4504a228dafe0c24560585b/)
 * [Turkish Paraphrase Corpus (TuPC)](https://osf.io/wp83a/)(Eyecioglu, Asli, and Bill Keller. "ASOBEK at SemEval-2016 Task 1: Sentence Representation with Character N-gram Embeddings for Semantic Textual Similarity." SemEval@ NAACL-HLT. 2016.)
-* [Turkish WordNet (KeNet)](http://haydut.isikun.edu.tr/kenet.html)(Sasmaz, E., R. Ehsani, O. T. Yildiz, "Hypernym extraction from Wikipedia and Wiktionary", SIU, Antalya, Turkey, 2017)
 * [Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set](https://archive.ics.uci.edu/ml/datasets/Parkinson%2BSpeech%2BDataset%2Bwith%2B%2BMultiple%2BTypes%2Bof%2BSound%2BRecordings#)(Erdogdu Sakar, B., Isenkul, M., Sakar, C.O., Sertbas, A., Gurgen, F., Delil, S., Apaydin, H., Kursun, O., 'Collection and Analysis of a Parkinson Speech Dataset with Multiple Types of Sound Recordings', IEEE Journal of Biomedical and Health Informatics, vol. 17(4), pp. 828-834, 2013.)
 * [Turkiye Student Evaluation Data Set](http://archive.ics.uci.edu/ml/datasets/turkiye+student+evaluation#)(Gunduz, G. & Fokoue, E. (2013).)
 * [Combined Cycle Power Plant Data Set](http://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant)(Pınar Tüfekci, Prediction of full load electrical power output of a base load operated combined cycle power plant using machine learning methods, International Journal of Electrical Power & Energy Systems, Volume 60, September 2014, Pages 126-140, ISSN 0142-06)
@@ -251,7 +250,6 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Bozkırda Yapay Öğrenme Yaz Okulu 2017 - Sunumları](http://goo.gl/o2H9hA) (HUCVL)
 * [ODTü Görüntü Analizi Uygulama ve Araştırma Merkezi (OGAM) Yaz Okulu 2016 - Sunumları](https://obayo.ogam.metu.edu.tr/sunumlar) (ODTÜ)
 * [ODTü Görüntü Analizi Uygulama ve Araştırma Merkezi (OGAM) Yaz Okulu 2016 - Videoları](http://obayo.ogam.metu.edu.tr/videolar) (ODTÜ)
-* [Deep Learning Türkiye - İstatistiksel Dil İşleme - Prof. Dr. Kemal Oflazer - Sunumları](https://drive.google.com/drive/folders/1w0L5r_C0BA1VLP8uA2iPNl90F8lXkMuc?usp=sharing) (DLTR)
 
 ## Github
 ### Doğal Dil İşleme
@@ -279,8 +277,6 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ## Bloglar
 * [Deep Learning Türkiye Blog](http://medium.com/deep-learning-turkiye)
 * [veridefteri.com](http://veridefteri.com/)
-* [zekimakine.com](http://zekimakine.com/)
-* [veribilimcisi.com](https://veribilimcisi.com/)
 * [alpslabel.wordpress.com](https://alpslabel.wordpress.com//)
 * [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com)
 * [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
@@ -292,10 +288,8 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Yapay Zeka - Vasif Vagifoğlu Nabiyev](http://www.dr.com.tr/Kitap/Yapay-Zeka-Problemler-Yontemler-Algoritma-/Vasif-Vagifoglu-Nabiyev/Bilim/Populer-Bilim/urunno=0000000435115)
 
 ## Yarışmalar
-* [Kaggle Yarışma Deneyimim ve Gözlemlerim](https://burakozdemir.co.uk/article/kaggle-yarisma-deneyimim-ve-gozlemlerim) (Burak Özdemir)
 * [Kaggle BNP Paribas 93. Derece (Top %3) Yöntem ve Kod](https://datanoord.wordpress.com/2016/05/05/kaggle-bnp-paribas-93-derece-top-3-yontem-ve-kod/) (Ayşe Elvan Aldemir)
 
 ## Mobil Uygulamalar
 * [Görme Engelliler için Para Okuyucu](https://itunes.apple.com/tr/app/para-okuyucu/id1334298365?l=tr&mt=8) (Özgür Şahin)
-* [VisionDict](https://itunes.apple.com/tr/app/visiondict/id1299943619?mt=8) (Kadir Mert Barutçuoğlu)
 
