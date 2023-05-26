@@ -64,6 +64,13 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **Bayes Teorisi:** Bayes teorisi, derin öğrenme modellerinde istatistiksel çıkarımlar yapmak için kullanılan bir yöntemdir. Bayes teoremi, öncül bilgiyi ve veriyi birleştirerek sonuçları güncellemeyi sağlar. Bu, özellikle belirsizliklerin olduğu durumlarda model tahminlerini iyileştirmek için kullanılır.
 * **Veri Ön İşleme ve Normalleştirme:** Derin öğrenme modelleri, veri ön işleme adımlarını içerir. Bu adımlar arasında veri normalleştirme, veri temizleme, boyut indirgeme, veri standartlaştırma gibi istatistiksel yöntemler yer alır. Bu işlemler, verinin modele daha iyi uymasını sağlar ve eğitim sürecini iyileştirir.
 
+## Algoritmalar
+
+### Algoritmalar için Püf Noktaları
+* [Derin Öğrenme Uygulamalarında En Sık kullanılan Hiper-parametreler](https://medium.com/deep-learning-turkiye/derin-ogrenme-uygulamalarinda-en-sik-kullanilan-hiper-parametreler-ece8e9125c4) (Necmettin Çarkacı)
+* [Derin Öğrenme Uygulamalarında Başarım İyileştirme (Regularization) Yöntemleri](https://medium.com/@necmettin.carkaci/derin-öğrenme-uygulamalarında-başarım-iyileştirme-yöntemleri-regularization-fb521e64c30f) (Necmettin Çarkacı)
+
+
 ### Yapay Sinir Ağları (Artificial Neural Networks)
 * [Yapay Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/sinir-aglari.html) (Arda Mavi)
 * [Yapay Sinir Ağları](http://www.akanesen.com/2017/09/yapay-sinir-aglar.html) (Birol Akan Esen)
