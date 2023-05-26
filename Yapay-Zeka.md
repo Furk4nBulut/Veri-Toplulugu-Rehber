@@ -51,7 +51,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Scikit-learn Dokümantasyon](https://scikit-learn.org/stable/index.html)
 * [Caffe Dokümantasyon](http://caffe.berkeleyvision.org/tutorial/)
 * [Microsoft Cognitive Toolkit (CNTK)](https://learn.microsoft.com/tr-tr/cognitive-toolkit/)
-* [Theano](https://theano.readthedocs.io/en/0.8.x/)
+* [Theano Dokümantasyon](https://theano.readthedocs.io/en/0.8.x/)
 
 
 ## Video Dersler
