@@ -53,8 +53,10 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Video Dersler
 * [Yapay Zeka ve Algoritmalarına Giriş (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/yapay-zeka-ve-algoritmalarina-giris-17500)
-* [Yapay Zeka (Artifical Intelligence) (BilgisayarKavramlari)](https://youtube.com/playlist?list=PLh9ECzBB8tJOtaD6DFxqRdP7QHIaBFcbW)
 * [Yapay Zeka Dersleri (Muhammet Kürşat Uçar MKU Teknoloji)](https://youtube.com/playlist?list=PLFOjPla6D8-k9n6AbTxM-SlzvN54z9Av6)
+* [Yapay Zeka (Artificial Intelligence) - Oynatma Listesi](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOtaD6DFxqRdP7QHIaBFcbW) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {48 Video}
+* [Yapay Zeka ve Deep Learning](https://www.youtube.com/watch?v=qk1RjRLIAq4) (Merve Ayyüce Kızrak) {68 dakika}
+* [Yapay Zeka Çağı | TEDxMETUAnkara](https://www.youtube.com/watch?v=d4kQVyAEsqA) (Dr. Şeyda Ertekin) {18 dakika}
 
 ## Kitaplar
 * [Think Bayes - Bayesian Statictics in Python](https://greenteapress.com/wp/think-bayes/)
