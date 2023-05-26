@@ -55,3 +55,5 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Github
 * [Python - Yapay Zeka için Python Programlama](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20-%20Yapay%20Zeka%20i%C3%A7in%20Python%20Programlama%20(1))
+* [Python Programming for Artificial Intelligence](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20Programming%20for%20Artificial%20Intelligence%20(1))
+* [Python ile Makine Öğrenmesi & Yapay Zeka Projeleri (5.2)](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20ile%20Makine%20%C3%96%C4%9Frenmesi%20%26%20Yapay%20Zeka%20Projeleri%20(5.2)) 
