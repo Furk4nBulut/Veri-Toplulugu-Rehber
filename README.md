@@ -81,12 +81,9 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Nöral Ağlar Öğrenme Algoritması Anlama Kılavuzu: Geri Yayılım Algoritması](http://bilisim.io/2017/07/11/noral-aglar-ogrenme-algoritmasi-anlama-kilavuzu-geri-yayilim-algoritmasi/) (Şefik İlkin Serengil)
 
 ### Evrişimli Sinir Ağları (Convolutional Neural Networks)
-* [Derin Bir Karşılaştırma: Inception ve Res-Net Verisyonları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/derin-bir-karsilastirma-inception-ve-res-net-versiyonlari) (Bağlantı güncellenecek!) (Merve Ayyüce Kızrak)
 * [Derine Daha Derine: Evrişimli Sinir Ağları](https://medium.com/deep-learning-turkiye/deri%CC%87ne-daha-deri%CC%87ne-evri%C5%9Fimli-sinir-a%C4%9Flar%C4%B1-2813a2c8b2a9) (Merve Ayyüce Kızrak)
 * [Evrişimli Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/convolutional-networks.html) (Arda Mavi)
 * [Tensorflow Tabanlı Keras ile MNIST Veriseti Üzerinde Çalışma](http://erdoganb.com/2017/04/kerastensorflow-ile-rakamlari-tanima-mnist-dataset/) (Erdoğan Bavaş)
-* [Konvolüsyonel Nöral Ağlara Kısa Bir Giriş](http://bilisim.io/2018/01/07/konvolusyonel-noral-aglara-kisa-bir-giris/) (Şefik İlkin Serengil)
-* [Öğrenim Transferi: Keras ile Inception V3 kullanımı](http://bilisim.io/2018/01/22/ogrenim-transferi-keras-ile-inception-v3-kullanimi/) (Şefik İlkin Serengil)
 
 ### Kapsül Ağları (Capsule Networks)
 * [Yapay Zekada Büyük Yenilik: Kapsül Ağları (Capsule Networks)](https://medium.com/deep-learning-turkiye/yapay-zekan%C4%B1n-yeni-ve-%C3%A7ekici-mimarisi-kaps%C3%BCl-a%C4%9F%C4%B1na-uygulamal%C4%B1-bir-bak%C4%B1%C5%9F-ef7310e3d847) (Merve Ayyüce Kızrak)
