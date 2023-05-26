@@ -33,16 +33,16 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 
 
 ### Kütüphaneler
-* **[NumPy:]()** Sayısal hesaplamalar ve çok boyutlu diziler için temel bir kütüphane. Makine öğrenmesi için veri manipülasyonu için sıklıkla kullanılır.
-* **[Pandas:]()** Veri analizi ve manipülasyonu için kullanılan bir kütüphane. Tablo verileriyle çalışmak için etkili bir araçtır.
-* **[Scikit-learn:]()** Python'da en popüler makine öğrenmesi kütüphanelerinden biridir. Çeşitli makine öğrenmesi algoritmaları, model seçimi, veri ön işleme ve değerlendirme araçları sunar.
-* **[TensorFlow:]()** Açık kaynaklı bir makine öğrenmesi kütüphanesidir. Derin öğrenme için özellikle popülerdir ve nesne tanıma, doğal dil işleme, ses işleme gibi uygulamalarda kullanılır.
-* **[Keras:]()** Yüksek seviyeli bir yapay sinir ağı kütüphanesidir ve TensorFlow üzerinde çalışır. Kolay kullanımı ve hızlı prototipleme yetenekleri nedeniyle tercih edilir.
-* **[PyTorch:]()** Yine derin öğrenme için popüler bir açık kaynaklı kütüphanedir. Dinamik grafik hesaplama özelliğine sahip olmasıyla dikkat çeker.
-* **[Matplotlib:]()** Görselleştirme aracıdır. Veri görselleştirmesi ve grafik oluşturmak için kullanılır.
-* **[Seaborn:]()** Matplotlib'e dayalı bir istatistiksel veri görselleştirme kütüphanesidir. Veri keşfi ve görselleştirme için daha yüksek seviye bir arayüz sunar.
-* **[XGBoost:]()** Gradient boosting yöntemini uygulayan etkili bir makine öğrenmesi kütüphanesidir. Özellikle yapılandırılmış verilerle çalışmak için kullanılır.
-* **[OpenCV:]()** Bilgisayarlı görü ve görüntü işleme için kullanılan açık kaynaklı bir kütüphanedir. Nesne tanıma, yüz tanıma, görüntü işleme gibi uygulamalarda yaygın olarak kullanılır.
+* **[NumPy:](#dokümantasyonlar)** Sayısal hesaplamalar ve çok boyutlu diziler için temel bir kütüphane. Makine öğrenmesi için veri manipülasyonu için sıklıkla kullanılır.
+* **[Pandas:](#dokümantasyonlar)** Veri analizi ve manipülasyonu için kullanılan bir kütüphane. Tablo verileriyle çalışmak için etkili bir araçtır.
+* **[Scikit-learn:](#dokümantasyonlar)** Python'da en popüler makine öğrenmesi kütüphanelerinden biridir. Çeşitli makine öğrenmesi algoritmaları, model seçimi, veri ön işleme ve değerlendirme araçları sunar.
+* **[TensorFlow:](#dokümantasyonlar)** Açık kaynaklı bir makine öğrenmesi kütüphanesidir. Derin öğrenme için özellikle popülerdir ve nesne tanıma, doğal dil işleme, ses işleme gibi uygulamalarda kullanılır.
+* **[Keras:](#dokümantasyonlar)** Yüksek seviyeli bir yapay sinir ağı kütüphanesidir ve TensorFlow üzerinde çalışır. Kolay kullanımı ve hızlı prototipleme yetenekleri nedeniyle tercih edilir.
+* **[PyTorch:](#dokümantasyonlar)** Yine derin öğrenme için popüler bir açık kaynaklı kütüphanedir. Dinamik grafik hesaplama özelliğine sahip olmasıyla dikkat çeker.
+* **[Matplotlib:](#dokümantasyonlar)** Görselleştirme aracıdır. Veri görselleştirmesi ve grafik oluşturmak için kullanılır.
+* **[Seaborn:](#dokümantasyonlar)** Matplotlib'e dayalı bir istatistiksel veri görselleştirme kütüphanesidir. Veri keşfi ve görselleştirme için daha yüksek seviye bir arayüz sunar.
+* **[XGBoost:](#dokümantasyonlar)** Gradient boosting yöntemini uygulayan etkili bir makine öğrenmesi kütüphanesidir. Özellikle yapılandırılmış verilerle çalışmak için kullanılır.
+* **[OpenCV:](#dokümantasyonlar)** Bilgisayarlı görü ve görüntü işleme için kullanılan açık kaynaklı bir kütüphanedir. Nesne tanıma, yüz tanıma, görüntü işleme gibi uygulamalarda yaygın olarak kullanılır.
 
 ### Diğer Konular
  * **[İstatistiksel Kavramlar:]()** Makine öğrenmesi temel olarak istatistiksel yöntemler üzerine kuruludur. Olasılık teorisi, istatistiksel dağılımlar, regresyon analizi gibi konuları anlamak önemlidir.
