@@ -15,7 +15,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Genel Bilgi](#genel-bilgi)** 
 * **[Yol Haritası](#yol-haritası)**
 * **[Algoritmalar](#algoritmalar)**
-* **[Kullanım Alanları](#kullanim-alanlari)**
+* **[Kullanım Alanları](#kullanım-alanları)**
 * **[Kütüphaneler](#kütüphaneler)**
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
