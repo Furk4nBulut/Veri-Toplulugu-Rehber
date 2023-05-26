@@ -30,6 +30,9 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
   Veri bilimi, birçok farklı sektörde uygulama alanı bulur. Örneğin, pazarlama, sağlık, finans, e-ticaret ve hükümet gibi alanlarda veri bilimi teknikleri kullanılarak verilerden değerli bilgiler elde edilebilir ve bu bilgiler iş stratejilerini geliştirmek veya daha iyi kararlar almak için kullanılabilir.
   
  ## Yol Haritası
+ ### Temel Konular
+ * [Data Science ve Python](https://www.udemy.com/data-science-sfrdan-uzmanlga-veri-bilimi-2/) (Kaan Can Yılmaz)
+ * [Data Visualization](https://www.udemy.com/data-visualization-adan-zye-veri-gorsellestirme-3/) (Kaan Can Yılmaz)
  ### Kütüphaneler
  * **[R:](https://www.rdocumentation.org/)** R, veri analitiği ve istatistiksel hesaplamalar için kullanılan bir başka popüler programlama dilidir. R, geniş bir istatistiksel ve grafiksel araç seti sunar ve veri analizi, veri görselleştirme ve modelleme için kullanılır. R'ın popüler kütüphaneleri arasında ggplot2, dplyr ve caret bulunmaktadır.
  *  **[Apache Hadoop:](https://hadoop.apache.org/docs/current/)** Hadoop, büyük veri işleme ve dağıtık depolama için kullanılan açık kaynaklı bir framework'tür. Hadoop, veri bilimcilerin büyük miktardaki verileri parçalara bölerek paralel olarak işlemesini ve analiz etmesini sağlar. Hadoop ekosistemindeki diğer araçlar arasında MapReduce, HDFS (Hadoop Distributed File System) ve Apache Spark bulunmaktadır.
