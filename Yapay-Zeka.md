@@ -18,6 +18,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
 * **[Video Dersler](#Video-dersler)**
 * **[Kitaplar](#kitaplar)**
+* **[Algoritmalar](#algoritmalar)**
 * **[Bloglar](#bloglar)**
 * **[Github](#github)**
 
@@ -63,6 +64,10 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Kitaplar
 * [Think Bayes - Bayesian Statictics in Python](https://greenteapress.com/wp/think-bayes/)
+
+## Algoritmalar
+* [Yapay Zeka Algoritmaları (Fahrettin Filiz)](https://medium.com/@fahrettinf/4-1-yapay-zeka-algoritmalar%C4%B1-fd64b8080748) 
+
 
 ## Bloglar
 * [Deep Learning Türkiye Blog](http://medium.com/deep-learning-turkiye)
