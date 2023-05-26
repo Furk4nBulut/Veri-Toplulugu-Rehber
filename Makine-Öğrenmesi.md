@@ -1,6 +1,6 @@
 ![logo](https://i.hizliresim.com/mkaepve.jpg)
-# Manisa Celal Bayar Üniversitesi Veri Bilimi Topluluğu #
-Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Bilimi Topluluğu** üyeleri için hazırlanmış **Makine Öğrenmesi(Machine Learning)** rehberidir.
+# Manisa Celal Bayar Üniversitesi Veri Topluluğu #
+Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Topluluğu** üyeleri için hazırlanmış **Makine Öğrenmesi(Machine Learning)** rehberidir.
 Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 
 **Sosyal Medya Hesaplarımız**
