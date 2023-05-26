@@ -16,7 +16,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Derin Öğrenme Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Derin-%C3%96%C4%9Frenme.md)**
 * **[Veri Bilimi Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Veri-Bilimi.md)**
 * **[Yapay Zeka Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Yapay-Zeka.md)**
-*  **[Sinir Ağlar Rehberi](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber/blob/main/Sinir-Aglari.md)**
+
 
 ## İçerikler
 
