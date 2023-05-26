@@ -15,6 +15,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Genel Bilgi](#genel-bilgi)** 
 * **[Yol Haritası](#yol-haritası)**
 * **[Algoritmalar](#algoritmalar)**
+* **[Kullanım Alanları](#kullanim-alanlari)**
 * **[Kütüphaneler](#kütüphaneler)**
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
@@ -90,7 +91,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 
 
-## KULLANIM ALANLARI
+## Kullanım Alanları
 ### Doğal Dil İşleme (Natural Language Processing)
 * [Keras ile Duygu Analizi](http://derindelimavi.blogspot.com.tr/2017/10/keras-ile-duygu-analizi.html) (Birol Kuyumcu)
 * [Türkçe Metin İşlemede İlk Adımlar](http://www.veridefteri.com/2017/11/20/turkce-metin-islemede-ilk-adimlar/) (İlker Birbil)
