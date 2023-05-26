@@ -49,6 +49,7 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 * [Scikit-learn Dokümantasyon](https://scikit-learn.org/stable/index.html)
 
 ## Kitaplar
+* **[Veri Alanında Ücretsiz Kitaplar](https://medium.com/datarunner/veri-bilimi-alan%C4%B1nda-%C3%BCcretsiz-kitaplar-521fe8132846)
 * [Python Data Science Handbook (Jake VanderPlas)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Data Science Design Manual (Steven S. Skiena)](https://link.springer.com/book/10.1007/978-3-319-55444-0)
 * [Introduction to Data Science (Laura Igual , Santi Seguí)](https://link.springer.com/book/10.1007/978-3-319-50017-1)
