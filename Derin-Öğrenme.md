@@ -18,6 +18,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
 *  **[Bloglar](#bloglar)**
+*  **[Colab](#colab)**
 
  ##  Genel Bilgi
   Derin öğrenme, yapay sinir ağları ve büyük veri setlerini kullanarak karmaşık problemleri çözmek için kullanılan bir makine öğrenme yöntemidir. Derin öğrenme, sinir ağlarının çok katmanlı yapısını kullanır ve veriye dayalı özelliklerin otomatik olarak öğrenilmesine odaklanır.
@@ -153,6 +154,9 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [alpslabel.wordpress.com](https://alpslabel.wordpress.com//)
 * [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com)
 * [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
+
+## Colab
+* [Kapsamlı Derin Öğrenme Rehberi](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
 
 
 
