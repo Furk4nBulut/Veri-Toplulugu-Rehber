@@ -18,8 +18,8 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
 *  **[Bloglar](#bloglar)**
-*  **[Bilimsel Makalaler](#bilimsel makaleler)**
-*  **[Google Colab](#google colab)**
+*  **[Bilimsel Makalaler](#bilimsel-makaleler)**
+*  **[Google Colab](#google-colab)**
 
  ##  Genel Bilgi
   Derin öğrenme, yapay sinir ağları ve büyük veri setlerini kullanarak karmaşık problemleri çözmek için kullanılan bir makine öğrenme yöntemidir. Derin öğrenme, sinir ağlarının çok katmanlı yapısını kullanır ve veriye dayalı özelliklerin otomatik olarak öğrenilmesine odaklanır.
