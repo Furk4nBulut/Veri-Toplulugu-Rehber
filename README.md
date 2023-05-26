@@ -77,8 +77,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Yapay Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/sinir-aglari.html) (Arda Mavi)
 * [Yapay Sinir Ağları](http://www.akanesen.com/2017/09/yapay-sinir-aglar.html) (Birol Akan Esen)
 * [Yapay Sinir Ağları Temel Kavramlar: Perceptron, Skor fonksiyonu ve Hata hesaplaması(loss function)](https://www.linkedin.com/pulse/derin-öğrenme-uygulamalarında-temel-kavramlar-skor-ve-çarkacı/) (Necmettin Çarkacı)
-* [Nöral Ağlar: Geçmiş Hatalardan Dersler Çıkarmak](http://bilisim.io/2017/07/08/noral-aglar-gecmis-hatalardan-dersler-cikarmak/) (Şefik İlkin Serengil)
-* [Nöral Ağlar Öğrenme Algoritması Anlama Kılavuzu: Geri Yayılım Algoritması](http://bilisim.io/2017/07/11/noral-aglar-ogrenme-algoritmasi-anlama-kilavuzu-geri-yayilim-algoritmasi/) (Şefik İlkin Serengil)
 
 ### Evrişimli Sinir Ağları (Convolutional Neural Networks)
 * [Derine Daha Derine: Evrişimli Sinir Ağları](https://medium.com/deep-learning-turkiye/deri%CC%87ne-daha-deri%CC%87ne-evri%C5%9Fimli-sinir-a%C4%9Flar%C4%B1-2813a2c8b2a9) (Merve Ayyüce Kızrak)
@@ -91,12 +89,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ### Çekişmeli Üretici Ağlar (Generative Adversarial Networks)
 * [Generative Adversarial Networks — GAN nedir ? ( Türkçe )](https://medium.com/@mubuyuk51/generative-adversarial-networks-gan-nedir-t%C3%BCrk%C3%A7e-5819fe9c1fa7) (Muhammed Buyukkınacı)
 
-### Otokodlayıcılar (Autoencoders)
-* [Yapay Nöral Ağlar: Autoencoder'lar](https://www.farukeroglu.org/2018/06/yapay-noral-aglar-autoencoder.html) (Faruk Eroğlu)
-* [Otomatik Kodlayıcı (Autoencoder)](https://veribilimcisi.com/2018/06/04/otomatik-kodlayici-auto-encoder/) (Seray Beşer)
-* [Gürültü Giderici Otomatik Kodlayıcı (Denoising Autoencoder)](https://veribilimcisi.com/2018/06/04/gurultu-giderici-otomatik-kodlayici-denoising-autoencoder/) (Seray Beşer)
-* [Seyrek Otomatik Kodlayıcı (Sparse Autoencoder)](https://veribilimcisi.com/2018/06/04/seyrek-otomatik-kodlayici-sparse-autoencoder/) (Seray Beşer)
-* [Varyasyonel Otomatik Kodlayıcı (Variational Autoencoder)](https://veribilimcisi.com/2018/06/04/varyasyonel-otomatik-kodlayici-variational-autoencoder/) (Seray Beşer)
 
 
 
