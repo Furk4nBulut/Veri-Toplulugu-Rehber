@@ -17,6 +17,7 @@ Bu sayfadan Python ile ilgili kaynaklara ulaşabilirsiniz.
 * [Sıfırdan İleri Seviye Python Programlama (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
 * [Python Programlama Dersleri (Sadık Turan)](https://www.youtube.com/playlist?list=PLXuv2PShkuHwGWVVBIffQYJGFLL-lGqsY)
 * [Python Dersleri (Tirendaz Akademi)](https://youtube.com/playlist?list=PLfMRLSpipmfvXkTUYk8hCY0Ql8B0cHlpt)
+* [Python: Sıfırdan Uzmanlığa Programlama ](https://www.udemy.com/python-sfrdan-uzmanlga-programlama-1/) (Kaan Can Yılmaz)
 
 ## Kitaplar
 * [Python 101 (Micheal Driscoll)](https://leanpub.com/python_101)
