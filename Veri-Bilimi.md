@@ -21,14 +21,6 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 
 ## Genel Bilgi
   Veri bilimi, verileri analiz etmek, yorumlamak ve anlamlı bilgiler elde etmek için istatistiksel ve hesaplamalı yöntemleri kullanma sürecidir. Bu disiplin, büyük miktarda veriyle çalışmayı gerektiren veri analitiği, makine öğrenimi, istatistiksel modelleme ve veri görselleştirme gibi teknikleri birleştirir.
-
-  Veri bilimi, bir dizi adımdan oluşan bir süreci içerir. İlk adım veri toplamaktır. Bu, çeşitli kaynaklardan verilerin toplanması, temizlenmesi ve düzenlenmesini içerir. Ardından, veriler keşfedilir ve analiz edilir. Bu aşamada istatistiksel yöntemler, veri görselleştirme araçları ve veri madenciliği teknikleri kullanılabilir.
-
-  Veri bilimi ayrıca, makine öğrenimi algoritmalarını kullanarak modeller oluşturmayı içerir. Makine öğrenimi, veriye dayalı modellerin otomatik olarak oluşturulması ve geliştirilmesini sağlayan bir alan olarak tanımlanabilir. Bu modeller, gelecekteki olayları tahmin etmek, desenleri tanımak veya karar vermeye yardımcı olmak gibi birçok farklı amaç için kullanılabilir.
-
-  Son olarak, veri bilimi sonuçları yorumlama ve sunma aşamasına geçer. Bu aşamada, elde edilen sonuçlar, karar vericilere veya ilgili paydaşlara anlaşılır bir şekilde iletilir.
-
-  Veri bilimi, birçok farklı sektörde uygulama alanı bulur. Örneğin, pazarlama, sağlık, finans, e-ticaret ve hükümet gibi alanlarda veri bilimi teknikleri kullanılarak verilerden değerli bilgiler elde edilebilir ve bu bilgiler iş stratejilerini geliştirmek veya daha iyi kararlar almak için kullanılabilir.
   
  ## Yol Haritası
  ### Temel Konular
