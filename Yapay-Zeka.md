@@ -52,3 +52,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Kitaplar
 * [Think Bayes - Bayesian Statictics in Python](https://greenteapress.com/wp/think-bayes/)
+
+## Github
+* [Python - Yapay Zeka için Python Programlama](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20-%20Yapay%20Zeka%20i%C3%A7in%20Python%20Programlama%20(1))
