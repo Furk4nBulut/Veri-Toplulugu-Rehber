@@ -38,6 +38,14 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
   - Sağlık sektöründe hastalık teşhisi
 
 ## Yol Haritası
+### Temel Konular
+* [İnsanda Ve Makinede Öğrenme](http://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html) (Arda Mavi)
+* [Makine Öğrenimi Eğlencelidir](https://medium.com/t%C3%BCrkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)(Özgür Şahin)
+* [Makine Öğrenimi Eğlencelidir 2](https://medium.com/bili%C5%9Fim-hareketi/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2-k%C4%B1s%C4%B1m-6b464cbdf40c)(Atakan Yenel)
+* [Makine Öğrenmesi Nedir?](https://medium.com/türkiye/makine-öğrenmesi-nedir-20dee450b56e) (Halil İbrahim Şafak)
+* [Makine Öğrenmesi](https://www.udemy.com/machine-learning-ve-python-adan-zye-makine-ogrenmesi-4/) (Kaan Can Yılmaz)
+
+
 ### Kütüphaneler
 * **[NumPy:]()** Sayısal hesaplamalar ve çok boyutlu diziler için temel bir kütüphane. Makine öğrenmesi için veri manipülasyonu için sıklıkla kullanılır.
 * **[Pandas:]()** Veri analizi ve manipülasyonu için kullanılan bir kütüphane. Tablo verileriyle çalışmak için etkili bir araçtır.
