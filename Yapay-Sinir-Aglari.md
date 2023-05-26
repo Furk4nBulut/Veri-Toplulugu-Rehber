@@ -1,6 +1,6 @@
 ![logo](https://i.hizliresim.com/e9305l2.jpg)
 #       Manisa Celal Bayar Üniversitesi Veri Bilimi Topluluğu #
-Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Bilimi Topluluğu** üyeleri için hazırlanmış rehberidir.
+Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Bilimi Topluluğu** üyeleri için hazırlanmış **Yapay Sinir Ağları (Artifical Neural Networks)** rehberidir.
 Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](https://docs.google.com/forms/d/e/1FAIpQLSczMPDGLATvOFSniiMnODwOjb_2Io8aiC6PEPW_t3K88UR5bA/alreadyresponded) doldurabilirsiniz.
 
 # Sosyal Medya Hesaplarımız
