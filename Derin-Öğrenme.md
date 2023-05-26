@@ -141,6 +141,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ## Kitaplar
 * [Deep Learning An MIT Press Book](https://www.deeplearningbook.org/)
 * [Neural Networks and Deep Learning free online book](http://neuralnetworksanddeeplearning.com/)
+* [MIT Deep Learning Book]( https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/complete-book-pdf)
 ### Ücretli Kitaplar
 * [Yapay Öğrenme - Ethem Alpaydın](http://www.idefix.com/Kitap/Yapay-Ogrenme/Ethem-Alpaydin/Bilim/Populer-Bilim/urunno=0000000362293)
 * [Derin Öğrenme - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.kitapyurdu.com/kitap/derin-ogrenme-ciltli/480279.html)
