@@ -1,6 +1,6 @@
 ![logo](https://i.hizliresim.com/d3py4zd.jpg)
-# Manisa Celal Bayar Üniversitesi Veri Bilimi Topluluğu #
-Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Bilimi Topluluğu** üyeleri için hazırlanmış **Veri Bilimi(Data Science)**rehberidir.
+# Manisa Celal Bayar Üniversitesi Veri Topluluğu #
+Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Topluluğu** üyeleri için hazırlanmış **Veri Bilimi(Data Science)**rehberidir.
 Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 **Sosyal Medya Hesaplarımız**
 
