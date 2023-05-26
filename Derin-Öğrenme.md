@@ -19,7 +19,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Kitaplar](#kitaplar)**
 *  **[Bloglar](#bloglar)**
 *  **[Bilimsel Makalaler](#bilimselmakaleler)**
-*  **[Colab](#colab)**
+*  **[Google Colab](#googlecolab)**
 
  ##  Genel Bilgi
   Derin öğrenme, yapay sinir ağları ve büyük veri setlerini kullanarak karmaşık problemleri çözmek için kullanılan bir makine öğrenme yöntemidir. Derin öğrenme, sinir ağlarının çok katmanlı yapısını kullanır ve veriye dayalı özelliklerin otomatik olarak öğrenilmesine odaklanır.
@@ -160,8 +160,9 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ### Genel (Review/Survey)
 * [Derin Öğrenme Yöntemleri ve Uygulamaları Hakkında Bir İnceleme](http://dergipark.gov.tr/download/article-file/394923) (Abdulkadir Şeker, Banu Diri, Hasan Hüseyin Balık )
 
-## Colab
+## Google Colab
 * [Kapsamlı Derin Öğrenme Rehberi](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
+* [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e) (Fuat)
 
 
 
