@@ -28,8 +28,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 * **[Frameworks](#frameworks)**  
 
-* **[Donanım ve Bulut Destekleri](#donanim-ve-bulut-destekleri)**
-
 * **[Bilimsel Makaleler](#bİlİmsel-makaleler)**  
 
 * **[Verisetleri](#verİsetlerİ)**  
