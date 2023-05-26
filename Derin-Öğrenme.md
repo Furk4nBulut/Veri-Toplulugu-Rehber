@@ -58,10 +58,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Kütüphaneler
 ### TensorFlow
-* [TensorFlow ile Derin Öğrenmeye Giriş](https://emredurukn.github.io/2016/11/02/tensorflow-ile-derin-ogrenmeye-giris.html) (Emre Durukan)
-* [Tensorflow'u Anlamak](https://mcemilg.github.io/general/2017/11/23/tensorflow/) (M.Cemil Güney)
-* [Tensorflow Türkçe Eğitim Dökümanları](https://github.com/Aelvangunduz/tensorflow_tutorials) (Ayse Elvan Aydemir)
-* [Tensorflow 101](https://veribilimcisi.com/tensorflow-101/) (Seray Beşer)
 * [TenserFlow Documentaion](https://www.tensorflow.org/api_docs)
 
 ### Keras
