@@ -50,6 +50,9 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 
 ## Kitaplar
 * [Python Data Science Handbook (Jake VanderPlas)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Data Science Design Manual (Steven S. Skiena)](https://link.springer.com/book/10.1007/978-3-319-55444-0)
+* [Introduction to Data Science (Laura Igual , Santi Seguí)](https://link.springer.com/book/10.1007/978-3-319-50017-1)
+* [Data Science and Predictive Analytics (Ivo D. Dinov)](https://link.springer.com/book/10.1007/978-3-319-72347-1)
 
 ## Bloglar
 * [Deep Learning Türkiye Blog](http://medium.com/deep-learning-turkiye)
