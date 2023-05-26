@@ -283,5 +283,5 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ## Mobil Uygulamalar
 * [Görme Engelliler için Para Okuyucu](https://itunes.apple.com/tr/app/para-okuyucu/id1334298365?l=tr&mt=8) (Özgür Şahin)
 
-### [Sayfa Başına Dönmek için Tıkla](#İçindekiler)
+### [Sayfa Başına Dönmek için Tıkla](#İçerikler)
 ### [Anasayfaya Dönüş için Tıkla](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber)
