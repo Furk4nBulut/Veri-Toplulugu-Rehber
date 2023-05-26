@@ -137,4 +137,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ## Github
 * [Python ve Derin Öğrenme Pytorch ile Derin Öğrenme (5.3)](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20ve%20Derin%20%C3%96%C4%9Frenme%20Pytorch%20ile%20Derin%20%C3%96%C4%9Frenme%20(5.3))
 
+### [Sayfa Başına Dönmek için Tıkla](#İçindekiler)
+### [Anasayfaya Dönüş için Tıkla](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber)
 
