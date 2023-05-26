@@ -18,6 +18,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
 *  **[Bloglar](#bloglar)**
+*  **[Bilimsel Makalaler](#bilimselmakaleler)**
 *  **[Colab](#colab)**
 
  ##  Genel Bilgi
@@ -154,6 +155,10 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [alpslabel.wordpress.com](https://alpslabel.wordpress.com//)
 * [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com)
 * [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
+
+## BİLİMSEL MAKALELER
+### Genel (Review/Survey)
+* [Derin Öğrenme Yöntemleri ve Uygulamaları Hakkında Bir İnceleme](http://dergipark.gov.tr/download/article-file/394923) (Abdulkadir Şeker, Banu Diri, Hasan Hüseyin Balık )
 
 ## Colab
 * [Kapsamlı Derin Öğrenme Rehberi](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
