@@ -101,23 +101,31 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [6.S191: Introduction to Deep Learning Massachusetts Institute of Technology via Independent](https://www.classcentral.com/course/independent-6-s191-introduction-to-deep-learning-8083)
 * [Deep Learning at Oxford 2015](https://youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 * [Keras ile Derin Öğrenmeye Giriş (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599)
+* [Ankara Deep Learning - Derin Öğrenme Etkinliği 1](https://youtu.be/K74rzKSsGs8) (Ferhat Kurt) {96 dakika}
+* [Derin Öğrenmeye Derinlemesine Dalış](https://www.youtube.com/watch?v=zJPW6Lyf_Xs) (Şefik İlkin Serengil @Softtech Sahnesi) {52 dakika}
+* [Derin Öğrenme: Dünü, Bugünü, Yarını](https://www.youtube.com/watch?v=ITCD2Z4jT8w) (Şefik İlkin Serengil @Bilgisayar Mühendisleri Odası) {100 dakika}
+* [IoT ve Derin Öğrenme Etkinliği](https://youtu.be/fqf6m3R4psQ) (Ferhat Kurt) {82 dakika}
+* [Keras Video Eğitim Serisi](https://www.youtube.com/watch?v=RNWjwdEQHOQ&list=PLRRY18KNZTgUyaxSRvExF7zNsIpaehl5e) (Mehmet Burak Sayıcı) {21 video, artmakta}
+* [Julia ve Knet ile Derin Öğrenmeye Giriş](https://youtu.be/3TR3Rx-Esis) (Doç. Dr. Deniz Yuret) {104 dakika},
+* [MatConvNet ve Matlab ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=nRVQQNw4Kh4&t=8s) (Ahmet Gökhan POYRAZ) {5 Video, eklemeler yapılacaktır}
+
 
 
 ## Kitaplar
 * [Deep Learning An MIT Press Book](https://www.deeplearningbook.org/)
 * [Neural Networks and Deep Learning free online book](http://neuralnetworksanddeeplearning.com/)
 * [MIT Deep Learning Book]( https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/complete-book-pdf)
-### Ücretli Kitaplar
+#### Ücretli Kitaplar
 * [Yapay Öğrenme - Ethem Alpaydın](http://www.idefix.com/Kitap/Yapay-Ogrenme/Ethem-Alpaydin/Bilim/Populer-Bilim/urunno=0000000362293)
 * [Derin Öğrenme - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.kitapyurdu.com/kitap/derin-ogrenme-ciltli/480279.html)
 * [OpenCv Görüntü İşleme ve Yapay Öğrenme - Birol Kuyumcu](http://www.kitapyurdu.com/kitap/opencv-goruntu-isleme-ve-yapay-ogrenme/376463.html)
 * [Yapay Zeka - Vasif Vagifoğlu Nabiyev](http://www.dr.com.tr/Kitap/Yapay-Zeka-Problemler-Yontemler-Algoritma-/Vasif-Vagifoglu-Nabiyev/Bilim/Populer-Bilim/urunno=0000000435115)
+* [Derin Öğrenme - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.kitapyurdu.com/kitap/derin-ogrenme-ciltli/480279.html)
+
 
 ## Bloglar
 * [Deep Learning Türkiye Blog](http://medium.com/deep-learning-turkiye)
 * [veridefteri.com](http://veridefteri.com/)
-* [zekimakine.com](http://zekimakine.com/)
-* [veribilimcisi.com](https://veribilimcisi.com/)
 * [alpslabel.wordpress.com](https://alpslabel.wordpress.com//)
 * [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com)
 * [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
@@ -125,6 +133,10 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 ## Bilimsel Makaleler
 ### Genel (Review/Survey)
 * [Derin Öğrenme Yöntemleri ve Uygulamaları Hakkında Bir İnceleme](https://dergipark.org.tr/tr/pub/gmbd/issue/31064/372661) (Abdulkadir Şeker, Banu Diri, Hasan Hüseyin Balık )
+### Bilgisayarlı Görü (Computer Vision)
+* [Face Recognition Classifier Based on Dimension Reduction in Deep Learning Properties](http://ieeexplore.ieee.org/document/7960368/) (Ahmet Bilgiç, Onur Can Kurban, Tülay Yıldırım)
+* [Signature recognition application based on deep learning](http://ieeexplore.ieee.org/abstract/document/7960454/) (Nurullah Çalık, 
+Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 
 ## Google Colab
 * [Kapsamlı Derin Öğrenme Rehberi](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
