@@ -23,21 +23,6 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 ## Genel Bilgi
   Makine öğrenmesi (Machine Learning), bilgisayar sistemlerinin veriye dayalı deneyimlerden öğrenerek, belirli görevleri gerçekleştirebilmelerini sağlayan bir yapay zeka dalıdır. Makine öğrenmesi algoritmaları, veriler üzerinde istatistiksel analizler yaparak desenler, ilişkiler ve trendler bulmayı hedefler. Bu desenler ve ilişkiler kullanılarak gelecekteki verileri tahmin etme, sınıflandırma, gruplandırma, öneri sistemleri oluşturma gibi birçok görev gerçekleştirilebilir.
 
-  Makine öğrenmesi genellikle iki ana kategoriye ayrılır:
-
-  1. İz supervised learning): İzlenen öğrenme, giriş verileriyle birlikte hedef çıktı verilerini kullanarak bir modelin eğitildiği bir öğrenme yöntemidir. Bu yöntemde, model, giriş verilerini analiz ederek belirli bir hedefe ulaşmak için desenleri tanımayı öğrenir. Örneğin, bir evin özelliklerine dayanarak evin fiyatını tahmin etmek gibi bir problemde, model, evin özelliklerini (odaların sayısı, metrekare, konum vb.) kullanarak fiyatı tahmin etmeyi öğrenir.
-
-  2. İzlenmeyen öğrenme (unsupervised learning): İzlenmeyen öğrenme, hedef çıktı verilerinin olmadığı, yani sadece giriş verilerinin bulunduğu bir öğrenme yöntemidir. Bu yöntemde, model, veriler arasındaki desenleri ve yapıları keşfetmeye çalışır. Kümeleme (clustering) veya boyut indirgeme (dimensionality reduction) gibi tekniklerle veri setini analiz eder. Örneğin, bir müşteri veri setinde, müşterilerin benzerliklerine dayanarak gruplara ayırma gibi bir problemde, model benzer özelliklere sahip müşterileri gruplandırabilir.
-
-  Makine öğrenmesinde kullanılan algoritmalar çeşitlilik gösterir. Bunlar arasında en yaygın olanları karar ağaçları (decision trees), destek vektör makineleri (support vector machines), doğrusal regresyon (linear regression), lojistik regresyon (logistic regression), yapay sinir ağları (artificial neural networks), derin öğrenme (deep learning) gibi yöntemlerdir.
-
-  Makine öğrenmesi uygulamaları birçok alanda kullanılmaktadır, örneğin:
-  - Görüntü ve ses tanıma
-  - Doğal dil işleme
-  - Otomatik araç kontrolü
-  - Finansal piyasa analizi ve tahminleri
-  - Sağlık sektöründe hastalık teşhisi
-
 ## Yol Haritası
 ### Temel Konular
 * [İnsanda Ve Makinede Öğrenme](http://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html) (Arda Mavi)
