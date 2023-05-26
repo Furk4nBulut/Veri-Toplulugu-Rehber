@@ -98,19 +98,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [MatConvNet ve Matlab ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=nRVQQNw4Kh4&t=8s) (Ahmet Gökhan POYRAZ) {5 Video, eklemeler yapılacaktır}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Video Dersler
 * [Derin Öğrenme (Mustafa Selçuk Çağlar)](https://youtube.com/playlist?list=PLrPKUEV0N1BRO8uli-5-XysJSXcsl-nMM)
 * [Keras İle Derin Öğrenme (Makine Öğrenmesi)](https://youtube.com/playlist?list=PLRRY18KNZTgUyaxSRvExF7zNsIpaehl5e)
@@ -147,5 +134,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Kapsamlı Derin Öğrenme Rehberi](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
 * [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e) (Fuat)
 
+## Github
+* [Python ve Derin Öğrenme Pytorch ile Derin Öğrenme (5.3)](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20ve%20Derin%20%C3%96%C4%9Frenme%20Pytorch%20ile%20Derin%20%C3%96%C4%9Frenme%20(5.3))
 
 
