@@ -92,6 +92,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 
 ## Github
 * [SerayBeser/Makine-Ogrenmesi](https://github.com/SerayBeser/Makine-Ogrenmesi)
+* [Makine Ogrenmesi](https://github.com/SerayBeser/Makine-Ogrenmesi) (Seray Beşer)
 
 
 
