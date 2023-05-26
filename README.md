@@ -116,7 +116,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 
 ### TensorFlow
-*
+* [TenserFlow Documentaion](https://www.tensorflow.org/api_docs)
 
 
 ### PyTorch
