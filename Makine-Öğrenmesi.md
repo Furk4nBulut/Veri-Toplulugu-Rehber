@@ -95,6 +95,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [Makine Ogrenmesi](https://github.com/SerayBeser/Makine-Ogrenmesi) (Seray Beşer)
 * [atakankizilyuce/makine-ogrenmesi-turkce](https://github.com/atakankizilyuce/makine-ogrenmesi-turkce)
 * [Machine Learning ve Python A'dan Z'ye Makine Öğrenmesi](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Machine%20Learning%20ve%20Python%20A'dan%20Z'ye%20Makine%20%C3%96%C4%9Frenmesi%20(4))
+* [Python ile Makine Öğrenmesi & Yapay Zeka Projeleri (5.2)](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20ile%20Makine%20%C3%96%C4%9Frenmesi%20%26%20Yapay%20Zeka%20Projeleri%20(5.2))
 
 
 
