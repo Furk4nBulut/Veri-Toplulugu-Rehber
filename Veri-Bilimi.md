@@ -16,6 +16,7 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
+* **[Github](#github)**
 
 ## Genel Bilgi
   Veri bilimi, verileri analiz etmek, yorumlamak ve anlamlı bilgiler elde etmek için istatistiksel ve hesaplamalı yöntemleri kullanma sürecidir. Bu disiplin, büyük miktarda veriyle çalışmayı gerektiren veri analitiği, makine öğrenimi, istatistiksel modelleme ve veri görselleştirme gibi teknikleri birleştirir.
@@ -53,3 +54,6 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 
 ## Kitaplar
 * [Python Data Science Handbook (Jake VanderPlas)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+## Github
+* [Data Science ve Python Sıfırdan Uzmanlığa Veri Bilimi](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Data%20Science%20ve%20Python%20S%C4%B1f%C4%B1rdan%20Uzmanl%C4%B1%C4%9Fa%20Veri%20Bilimi%20(2))
