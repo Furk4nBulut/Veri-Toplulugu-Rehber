@@ -23,4 +23,7 @@ Bu sayfadan Python ile ilgili kaynaklara ulaşabilirsiniz.
 * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 * [How Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
 
+### [Sayfa Başına Dönmek için Tıkla](#İçindekiler)
+### [Anasayfaya Dönüş için Tıkla](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber)
+
 
