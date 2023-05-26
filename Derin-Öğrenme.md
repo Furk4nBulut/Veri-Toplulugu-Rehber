@@ -26,11 +26,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
  ##  Genel Bilgi
   Derin öğrenme, yapay sinir ağları ve büyük veri setlerini kullanarak karmaşık problemleri çözmek için kullanılan bir makine öğrenme yöntemidir. Derin öğrenme, sinir ağlarının çok katmanlı yapısını kullanır ve veriye dayalı özelliklerin otomatik olarak öğrenilmesine odaklanır.
 
-  Derin öğrenme, birçok farklı uygulama alanında etkili olmuştur, özellikle görüntü ve ses tanıma, doğal dil işleme, otomatik sürüş, oyun oynama ve tıp gibi alanlarda büyük başarı elde etmiştir.
-  Derin öğrenme algoritmaları, veri setlerinden örneklerle beslenir ve bu örnekleri analiz ederek veri içindeki desenleri ve ilişkileri algılamaya çalışır. Bu işlem, ağın birçok katmanında gerçekleştirilir ve her bir katman, önceki katmanın çıktılarından yeni özellikler öğrenir. Bu sayede, derin öğrenme modelleri, karmaşık ve soyut kavramları algılayabilme yeteneğine sahiptir.
-  Derin öğrenme modelleri, genellikle büyük veri setleri üzerinde eğitilir. Bu veri setleri, genellikle insan uzmanları tarafından etiketlenmiş veya kategorize edilmiş veriler içerir. Eğitim süreci, ağırlık değerlerini güncelleyerek ve hata fonksiyonunu minimize ederek gerçekleştirilir. Daha sonra eğitilen model, yeni girdileri analiz ederek tahminlerde bulunabilir veya problemleri çözebilir.
-  Derin öğrenme, geleneksel makine öğrenme yöntemlerine göre daha yüksek düzeyde otomatiklik ve veriye dayalı özellik öğrenimi sağlar. Ancak derin öğrenme modelleri, büyük miktarda veri ve hesaplama gücü gerektirebilir. Ayrıca, bu modellerin eğitim süreci karmaşık ve zaman alıcı olabilir.
-
 ## Yol Haritası
 ### Temel Konular
 * [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](https://medium.com/deep-learning-turkiye/motivasyon-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-48d09355388d) (Merve Ayyüce Kızrak)
