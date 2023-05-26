@@ -12,6 +12,8 @@ Bu sayfadan Python ile ilgili kaynaklara ulaşabilirsiniz.
 
 ## Dokümantasyon
 * [Python Dokümantasyon](https://docs.python.org/3/)
+* [Python Türkçe Dokümantasyon](https://python.yemreak.com/temel/dokuemantasyon)
+* [Python Tutorial -w3schools](https://www.w3schools.com/python/default.asp)
 
 ## Video Dersler
 * [Sıfırdan İleri Seviye Python Programlama (BTK Akademi)](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
