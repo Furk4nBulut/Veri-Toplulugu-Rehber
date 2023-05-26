@@ -17,6 +17,8 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
 * **[Video Dersler](#Video-dersler)**
 * **[Kitaplar](#kitaplar)**
+* **[Bloglar](#bloglar)**
+* **[Github](#github)**
 
 ## Genel Bilgi
   Yapay zeka, insan gibi davranışlar ve hareketler sergileyebilen makinelerin geliştirilmesi teknolojisinin genel adıdır. Yapay zeka, makine öğrenimi, derin öğrenme, doğal dil işleme, bilgisayarlı görü ve robotik gibi alt alanlara ayrılır. Yapay zeka, verilerdeki modelleri tanıyarak tahminler yapmak, verilerden değer elde etmek ve karmaşık görevleri otomatikleştirmek gibi pek çok alanda işe yarar.
@@ -60,6 +62,13 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ## Kitaplar
 * [Think Bayes - Bayesian Statictics in Python](https://greenteapress.com/wp/think-bayes/)
+
+## Bloglar
+* [Deep Learning Türkiye Blog](http://medium.com/deep-learning-turkiye)
+* [veridefteri.com](http://veridefteri.com/)
+* [alpslabel.wordpress.com](https://alpslabel.wordpress.com//)
+* [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com)
+* [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
 
 ## Github
 * [Python - Yapay Zeka için Python Programlama](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20-%20Yapay%20Zeka%20i%C3%A7in%20Python%20Programlama%20(1))
