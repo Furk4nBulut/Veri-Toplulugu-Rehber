@@ -16,6 +16,7 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
+* **[Bloglar](#bloglar)**
 * **[Github](#github)**
 
 ## Genel Bilgi
@@ -57,6 +58,13 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 
 ## Kitaplar
 * [Python Data Science Handbook (Jake VanderPlas)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+## Bloglar
+* [Deep Learning Türkiye Blog](http://medium.com/deep-learning-turkiye)
+* [veridefteri.com](http://veridefteri.com/)
+* [alpslabel.wordpress.com](https://alpslabel.wordpress.com//)
+* [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com)
+* [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
 
 ## Github
 * [Data Science ve Python Sıfırdan Uzmanlığa Veri Bilimi](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Data%20Science%20ve%20Python%20S%C4%B1f%C4%B1rdan%20Uzmanl%C4%B1%C4%9Fa%20Veri%20Bilimi%20(2))
