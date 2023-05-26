@@ -57,3 +57,4 @@ Bu sayfada veri bilimi hakkında bilgilere ulaşabilirsiniz.
 
 ## Github
 * [Data Science ve Python Sıfırdan Uzmanlığa Veri Bilimi](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Data%20Science%20ve%20Python%20S%C4%B1f%C4%B1rdan%20Uzmanl%C4%B1%C4%9Fa%20Veri%20Bilimi%20(2))
+* [Data Visualization A'dan Z'ye Veri Görselleştirme](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Data%20Visualization%20A'dan%20Z'ye%20Veri%20G%C3%B6rselle%C5%9Ftirme%20(3))
