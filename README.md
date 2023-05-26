@@ -144,11 +144,10 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 #### Ekran kartı sürücüsü, Cuda ve Cudnn Kurulumu
 * [NVIDIA GPU Sürücüsü, CUDA ve cudNN Kurulum Rehberi](https://github.com/earcz/NVIDIA-GPU-Surucusu-ve-CUDA-Yukleme) (Ender Ayhan Rencüzoğulları)
 
-#### Microsoft Azure Notebook
 
 ## BİLİMSEL MAKALELER
 ### Genel (Review/Survey)
-* [Derin Öğrenme Yöntemleri ve Uygulamaları Hakkında Bir İnceleme](http://dergipark.gov.tr/download/article-file/394923) (Abdulkadir Şeker, Banu Diri, Hasan Hüseyin Balık )
+* [Derin Öğrenme Yöntemleri ve Uygulamaları Hakkında Bir İnceleme](https://dergipark.org.tr/tr/pub/gmbd/issue/31064/372661) (Abdulkadir Şeker, Banu Diri, Hasan Hüseyin Balık )
 
 ### Bilgisayarlı Görü (Computer Vision)
 * [MARVEL: A Large-Scale Image Dataset for Maritime Vessels](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_11) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
