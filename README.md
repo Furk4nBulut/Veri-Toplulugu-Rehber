@@ -61,8 +61,6 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Makine Öğrenimi Eğlencelidir](https://medium.com/t%C3%BCrkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)(Özgür Şahin)
 * [Makine Öğrenimi Eğlencelidir 2](https://medium.com/bili%C5%9Fim-hareketi/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2-k%C4%B1s%C4%B1m-6b464cbdf40c)(Atakan Yenel)
 * [Makine Öğrenmesi Nedir?](https://medium.com/türkiye/makine-öğrenmesi-nedir-20dee450b56e) (Halil İbrahim Şafak)
-* [Makine Öğrenmesi 101](https://veribilimcisi.com/makine-ogrenmesi/) (Seray Beşer)
-* [Derin Öğrenme 101](https://veribilimcisi.com/derin-ogrenme-101/) (Seray Beşer)
 * [Makine Öğrenmesi Matematiği](https://veribilimcisi.com/makine-ogrenmesi-matematigi/) (Seray Beşer)
 * [Veri Bilimcisi Olma Rehberi](http://bilisim.io/2017/09/28/veri-bilimcisi-olma-rehberi/) (Şefik İlkin Serengil)
 * [Python: Sıfırdan Uzmanlığa Programlama ](https://www.udemy.com/python-sfrdan-uzmanlga-programlama-1/) (Kaan Can Yılmaz)
