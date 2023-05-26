@@ -52,6 +52,8 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * **Transpoz:** Bir matrisin transpozu, matrisin satırlarını sütunlara ve sütunları satırlara dönüştüren işlemdir. Transpoz, matris çarpımında ve model parametrelerini güncellemede önemli bir rol oynar.
 * **Lineer Denklem Sistemleri:** Derin öğrenme modelleri genellikle lineer denklem sistemlerini çözmek için kullanılır. Bu denklemler, verileri temsil eden matrisler ve hedef değerleri temsil eden vektörler arasında bir ilişkiyi ifade eder. Modellerin eğitimi, bu denklem sistemlerini çözmeyi ve model parametrelerini ayarlamayı içerir.
 * **Eigenvektörler ve Eigendeğerler:** Bir matrisin eigenvektörleri, matrisin çarpımı sonucunda yalnızca bir ölçek faktörüyle değişmeyen vektörlerdir. Eigenvektörler ve eigendeğerler, derin öğrenme modellerinde boyut indirgeme, veri dönüşümü ve matrislerin özelliklerini anlamak için kullanılır.
+
+
 ### Olasılık-İstatistik
 * **Olasılık Dağılımları:** Derin öğrenme modellerinde genellikle olasılık dağılımları kullanılır. Örneğin, sınıflandırma problemlerinde sınıflar arasındaki olasılık dağılımlarını tahmin etmek için kullanılır. En yaygın olarak kullanılan olasılık dağılımları arasında normal dağılım, Bernoulli dağılımı, çoknomiyal dağılım ve kategorik dağılım bulunur.
 * **En olası tahmin (Maximum Likelihood):** Derin öğrenme modellerinde, veriye dayalı en olası tahmini yapmak için maksimum olabilirlik (maximum likelihood) yöntemi kullanılır. Bu, veriyi en iyi açıklayan model parametrelerini seçmek için kullanılan bir istatistiksel tahminleme yöntemidir.
