@@ -17,6 +17,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * **[Dokümantasyonlar](#Dokümantasyonlar)**
 * **[Video Dersler](#Video-Dersler)**
 * **[Kitaplar](#kitaplar)**
+* **[Bloglar](#bloglar)**
 * **[Github](#github)**
 
 ## Genel Bilgi
@@ -97,6 +98,13 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [Introduction to Machine Learning(Draft of Incomplete Notes
 )](https://ai.stanford.edu/~nilsson/mlbook.html)
 * [Understanding Machine Kearning:From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+
+## Bloglar
+* [Deep Learning Türkiye Blog](http://medium.com/deep-learning-turkiye)
+* [veridefteri.com](http://veridefteri.com/)
+* [alpslabel.wordpress.com](https://alpslabel.wordpress.com//)
+* [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com)
+* [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
 
 ## Github
 * [SerayBeser/Makine-Ogrenmesi](https://github.com/SerayBeser/Makine-Ogrenmesi)
