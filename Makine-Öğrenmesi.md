@@ -111,8 +111,8 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [Machine Learning ve Python A'dan Z'ye Makine Öğrenmesi](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Machine%20Learning%20ve%20Python%20A'dan%20Z'ye%20Makine%20%C3%96%C4%9Frenmesi%20(4))
 * [Python ile Makine Öğrenmesi & Yapay Zeka Projeleri (5.2)](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20ile%20Makine%20%C3%96%C4%9Frenmesi%20%26%20Yapay%20Zeka%20Projeleri%20(5.2))
 
-  ## Projeler
-  * [40 Machine Learning Projects with Python](https://amankharwal.medium.com/25-machine-learning-projects-with-python-9af3ca130566)
+## Projeler
+* [40 Machine Learning Projects with Python](https://amankharwal.medium.com/25-machine-learning-projects-with-python-9af3ca130566)
 
 ### [Sayfa Başına Dönmek için Tıkla](#İçindekiler)
 ### [Anasayfaya Dönüş için Tıkla](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber)
