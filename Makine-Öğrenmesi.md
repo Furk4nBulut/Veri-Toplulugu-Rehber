@@ -20,6 +20,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * **[Algoritmalar](#Algoritmalar)**
 * **[Bloglar](#bloglar)**
 * **[Github](#github)**
+* **[Projeler](#projeler)**
 
 ## Genel Bilgi
   Makine öğrenmesi (Machine Learning), bilgisayar sistemlerinin veriye dayalı deneyimlerden öğrenerek, belirli görevleri gerçekleştirebilmelerini sağlayan bir yapay zeka dalıdır. Makine öğrenmesi algoritmaları, veriler üzerinde istatistiksel analizler yaparak desenler, ilişkiler ve trendler bulmayı hedefler. Bu desenler ve ilişkiler kullanılarak gelecekteki verileri tahmin etme, sınıflandırma, gruplandırma, öneri sistemleri oluşturma gibi birçok görev gerçekleştirilebilir.
@@ -101,6 +102,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
 * [Makine Öğrenmesi Algoritmaları (Mehmet Akif Özgür)](https://medium.com/@aynurrson12/list/yapay-zeka-0413a896f0ed)
 * [Makine Öğrenmesi (Naciye Kuru)](https://medium.com/@naciyekuru/list/ml-b82ffa414ce3)
+  
 
 ## Github
 * [SerayBeser/Makine-Ogrenmesi](https://github.com/SerayBeser/Makine-Ogrenmesi)
@@ -108,6 +110,9 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [atakankizilyuce/makine-ogrenmesi-turkce](https://github.com/atakankizilyuce/makine-ogrenmesi-turkce)
 * [Machine Learning ve Python A'dan Z'ye Makine Öğrenmesi](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Machine%20Learning%20ve%20Python%20A'dan%20Z'ye%20Makine%20%C3%96%C4%9Frenmesi%20(4))
 * [Python ile Makine Öğrenmesi & Yapay Zeka Projeleri (5.2)](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20ile%20Makine%20%C3%96%C4%9Frenmesi%20%26%20Yapay%20Zeka%20Projeleri%20(5.2))
+
+  ## Projeler
+  * [40 Machine Learning Projects with Python](https://amankharwal.medium.com/25-machine-learning-projects-with-python-9af3ca130566)
 
 ### [Sayfa Başına Dönmek için Tıkla](#İçindekiler)
 ### [Anasayfaya Dönüş için Tıkla](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber)
