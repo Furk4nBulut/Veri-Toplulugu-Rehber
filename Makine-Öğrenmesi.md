@@ -102,6 +102,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
 * [Makine Öğrenmesi Algoritmaları (Mehmet Akif Özgür)](https://medium.com/@aynurrson12/list/yapay-zeka-0413a896f0ed)
 * [Makine Öğrenmesi (Naciye Kuru)](https://medium.com/@naciyekuru/list/ml-b82ffa414ce3)
+* [Makine Öğrenmesi Eğitimi | Bilkav (Sadi Evren Şeker](https://bilkav.com/makine-ogrenmesi-egitimi/)
   
 
 ## Github
