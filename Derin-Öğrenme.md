@@ -98,6 +98,18 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 ### Bilgisayarlı Görü (Computer Vision)
 * [10 Dakikada Görüntü Sınıflandıran Mobil Uygulama Geliştirin](https://medium.com/nsistanbul/10-dakikada-g%C3%B6r%C3%BCnt%C3%BC-s%C4%B1n%C4%B1fland%C4%B1ran-mobil-uygulama-geli%C5%9Ftirin-7567371839b0) (Özgür Şahin)
+* [MARVEL: A Large-Scale Image Dataset for Maritime Vessels](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_11) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
+* [Face Recognition Classifier Based on Dimension Reduction in Deep Learning Properties](http://ieeexplore.ieee.org/document/7960368/) (Ahmet Bilgiç, Onur Can Kurban, Tülay Yıldırım)
+* [Signature recognition application based on deep learning](http://ieeexplore.ieee.org/abstract/document/7960454/) (Nurullah Çalık, 
+Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
+* [On identifying leaves: A comparison of CNN with classical ML methods](http://ieeexplore.ieee.org/abstract/document/7960257/) (Mohamed Abbas Hedjazi, Ikram Kourbane, Yakup Genç)
+* [On identifying leaves: A comparison of CNN with classical ML methods](https://web.cs.hacettepe.edu.tr/~aykut/papers/ieee-tmm17.pdf) (Çağdaş Bak, Aysun Koçak, Erkut Erdem, Aykut Erdem)
+* [Exploiting Convolution Filter Patterns for Transfer Learning](https://arxiv.org/abs/1708.06973) (Mehmet Aygün, Yusuf Aytar, Hazım Kemal Ekenel)
+* [The Unconstrained Ear Recognition Challenge](https://arxiv.org/abs/1708.06997) (Žiga Emeršič, Dejan Štepec, Vitomir Štruc, Peter Peer, Anjith George, Adil Ahmad, Elshibani Omar, Terrance E. Boult, Reza Safdari, Yuxiang Zhou, Stefanos Zafeiriou, Dogucan Yaman, Fevziye I. Eyiokur, Hazim K. Ekenel)
+* [Combining LiDAR Space Clustering and Convolutional Neural Networks for Pedestrian Detection](https://arxiv.org/abs/1710.06160) (Damien Matti, Hazım Kemal Ekenel, Jean-Philippe Thiran)
+* [Combining Multiple Views for Visual Speech Recognition](http://avsp2017.loria.fr/wp-content/uploads/2017/07/AVSP2017_paper_25.pdf) (Marina Zimmermann, Mostafa Mehdipour Ghazi, Hazım Kemal Ekenel, Jean-Philippe Thiran)
+* [A Computer Vision System to Localize and Classify Wastes on the Streets](https://infoscience.epfl.ch/record/231365/files/A-Computer-Vision-System%20to-Localize-and-Classify-Wastes-on-the-Streets.pdf) (Mohammad Saeed Rad,Andreas von Kaenel, Andre Droux, Francois
+Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 
 ## Kütüphaneler
 ### TensorFlow
