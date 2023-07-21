@@ -74,6 +74,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [Yapay Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/sinir-aglari.html) (Arda Mavi)
 * [Yapay Sinir Ağları](http://www.akanesen.com/2017/09/yapay-sinir-aglar.html) (Birol Akan Esen)
 * [Yapay Sinir Ağları Temel Kavramlar: Perceptron, Skor fonksiyonu ve Hata hesaplaması(loss function)](https://www.linkedin.com/pulse/derin-öğrenme-uygulamalarında-temel-kavramlar-skor-ve-çarkacı/) (Necmettin Çarkacı)
+* [YAPAY SİNİR AĞLARI. Araş. Gör. Nesibe YALÇIN BİLECİK ÜNİVERSİTESİ](https://docplayer.biz.tr/3314312-Yapay-sinir-aglari-aras-gor-nesibe-yalcin-bilecik-universitesi.html)
 
 ### Evrişimli Sinir Ağları (Convolutional Neural Networks)
 * [Derine Daha Derine: Evrişimli Sinir Ağları](https://medium.com/deep-learning-turkiye/deri%CC%87ne-daha-deri%CC%87ne-evri%C5%9Fimli-sinir-a%C4%9Flar%C4%B1-2813a2c8b2a9) (Merve Ayyüce Kızrak)
