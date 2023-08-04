@@ -14,10 +14,10 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 
 
 # Rehberler
+* **[İçeriklerimiz](https://github.com/Furk4nBulut/Veri-Toplulugu-Rehber/blob/main/%C4%B0%C3%A7eriklerimiz.md)**
 * **[Python Rehberi](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber/blob/main/Python.md)**
 * **[Makine Öğrenmesi Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Makine-%C3%96%C4%9Frenmesi.md)** 
 * **[Derin Öğrenme Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Derin-%C3%96%C4%9Frenme.md)**
 * **[Veri Bilimi Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Veri-Bilimi.md)**
 * **[Yapay Zeka Rehberi](https://github.com/Furk4nBulut/Rehber/blob/main/Yapay-Zeka.md)**
 * **[Genel Rehber](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber/blob/main/Genel-Rehber.md)**
-* **[İçeriklerimiz](https://github.com/Furk4nBulut/Veri-Toplulugu-Rehber/blob/main/%C4%B0%C3%A7eriklerimiz.md)**
