@@ -87,7 +87,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [Understanding Machine Kearning:From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [An Introduction to Machine Learning (Miroslav Kubat)](https://link.springer.com/book/10.1007/978-3-319-63913-0)
 * [Machine Learning in Medicine - a Complete Overview (Ton J. Cleophas , Aeilko H. Zwinderman)](https://link.springer.com/book/10.1007/978-3-319-15195-3)
-
+* [Statistic And Machine Learning in Python](https://pyoflife.com/download-statistics-and-machine-learning-in-python/)
 ## Algoritmalar
 * [Yeni Başlayanlar için Makine Öğrenmesi Algoritmaları(Merve Noyan)](https://medium.com/@merveenoyan/yeni-ba%C5%9Flayanlar-i%C3%A7in-makine-%C3%B6%C4%9Frenmesi-algoritmalar%C4%B1-6b89b3a67750)
 * [Yeni Başlayanlar için Makine Öğrenmesi Algoritmaları (Cerebro)](https://medium.com/t%C3%BCrkiye/yeni-ba%C5%9Flayanlar-i%C3%A7in-makine-%C3%B6%C4%9Frenmesi-algoritmalar%C4%B1-ae22f794af2f)
