@@ -1,7 +1,7 @@
 ![logo](https://i.hizliresim.com/e9305l2.jpg)
 #       Manisa Celal Bayar Üniversitesi Veri Bilimi Topluluğu #
 Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Bilimi Topluluğu** üyeleri için hazırlanmış rehberidir. Bu sayfada kaynakları daha karmaşık ve kategorilendirilmemiş haliyle bulabilirsiniz.
-Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](https://docs.google.com/forms/d/e/1FAIpQLSczMPDGLATvOFSniiMnODwOjb_2Io8aiC6PEPW_t3K88UR5bA/alreadyresponded) doldurabilirsiniz.
+Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](https://docs.google.com/forms/d/e/1FAIpQLSevtsJGBewpxEZKshCNOl_mlSiwHjY2eSxp8iwwGUICOuwuhg/viewform) doldurabilirsiniz.
 
 # Sosyal Medya Hesaplarımız
 
